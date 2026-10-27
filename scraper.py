@@ -95,7 +95,7 @@ def load(name, default):
 
 def main():
     now = datetime.now(timezone.utc)
-    seen = {k: v for k, v in load("seen.json", {}).items()
+    seen = {k: v for k, v in load("checked.json", {}).items()
             if datetime.fromisoformat(v) > now - timedelta(days=SEEN_DAYS)}
     session, cards = requests.Session(), {}
     for loc in LOCATIONS:
@@ -106,17 +106,27 @@ def main():
                 cards.setdefault(j["id"], j)
             if len(batch) < 25:
                 break
-    new_jobs = []
+    new_jobs, rejected = [], []
     for job in cards.values():
-        if job["id"] in seen or not title_ok(job["title"]):
+        if job["id"] in seen:
             continue
-        d = parse_detail(get(session, DETAIL_URL.format(job["id"])))
-        seen[job["id"]] = now.isoformat()
-        posted = d["posted"] or job["posted"]
-        h = hours_ago(posted)
-        if h is None or h > MAX_HOURS or not first_25(d["applicants"]):
-            continue
-        if not experience_ok(d["description"], d["seniority"], job["title"]):
+        why = ""
+        if not title_ok(job["title"]):
+            why = "title not security/junior"
+        else:
+            d = parse_detail(get(session, DETAIL_URL.format(job["id"])))
+            seen[job["id"]] = now.isoformat()
+            posted = d["posted"] or job["posted"]
+            h = hours_ago(posted)
+            if h is None or h > MAX_HOURS:
+                why = f"posted: {posted or 'unknown'}"
+            elif not first_25(d["applicants"]):
+                why = f"applicants: {d['applicants'] or 'unknown'}"
+            elif not experience_ok(d["description"], d["seniority"], job["title"]):
+                why = f"experience: {min_years(d['description'])} yrs, {d['seniority'] or 'no level'}"
+        if why:
+            rejected.append({"title": job["title"], "company": job["company"],
+                             "location": job["location"], "url": job["url"], "reason": why})
             continue
         job.update(posted=posted, hours_ago=h, applicants=d["applicants"],
                    seniority=d["seniority"], description=d["description"][:3000])
@@ -125,8 +135,10 @@ def main():
     DATA.mkdir(exist_ok=True)
     (DATA / "jobs.json").write_text(json.dumps({"generated_at": now.isoformat(),
         "count": len(new_jobs), "jobs": new_jobs}, indent=2, ensure_ascii=False))
-    (DATA / "seen.json").write_text(json.dumps(seen, indent=1, sort_keys=True))
-    print(f"searched {len(cards)} cards, {len(new_jobs)} new matching jobs")
+    (DATA / "checked.json").write_text(json.dumps(seen, indent=1, sort_keys=True))
+    (DATA / "rejected.json").write_text(json.dumps({"generated_at": now.isoformat(),
+        "cards": len(cards), "rejected": rejected}, indent=2, ensure_ascii=False))
+    print(f"searched {len(cards)} cards, {len(new_jobs)} new, {len(rejected)} rejected")
 
 if __name__ == "__main__":
     main()
