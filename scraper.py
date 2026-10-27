@@ -68,7 +68,7 @@ def first_25(applicants):
     if "first 25" in applicants.lower():
         return True
     m = re.search(r"(\d+)\s+applicants", applicants)
-    return bool(m) and int(m.group(1)) < 25
+    return bool(m) and int(m.group(1)) < 50
 
 def hours_ago(posted):
     m = re.search(r"(\d+)\s+(minute|hour|day|week|month)", posted)
