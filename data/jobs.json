@@ -1,5 +1,32 @@
 {
-  "generated_at": "2026-10-27T06:13:49.623701+00:00",
-  "count": 0,
-  "jobs": []
+  "generated_at": "2026-10-27T12:43:27.292262+00:00",
+  "count": 2,
+  "jobs": [
+    {
+      "id": "4483637258",
+      "title": "SOC Intern",
+      "company": "WORKSENT",
+      "location": "Kochi, Kerala, India",
+      "posted": "1 hour ago",
+      "posted_date": "2026-10-27",
+      "url": "https://www.linkedin.com/jobs/view/4483637258/",
+      "hours_ago": 1,
+      "applicants": "48 applicants",
+      "seniority": "Internship",
+      "description": "SOC Intern Location: Kochi, Inforpark Work Mode: Work From Office Employment Type: Internship Duration: 3 Months Department: Security Operations Center (SOC) Important: Please read the complete Job Description carefully before applying. Role Overview As a SOC Intern, you will work alongside our SOC analysts and gain practical exposure to security monitoring, alert analysis, incident investigation, vulnerability management, and cybersecurity operations. The role is designed for candidates who want to transition into a SOC Analyst career. Key Responsibilities Assist SOC analysts with monitoring security alerts. Perform basic alert validation and categorization. Assist with investigation of suspicious activities. Review security logs and identify unusual events. Support documentation of security incidents and investigations. Assist with maintaining SOC knowledge-base articles and documentation. Participate in shift handovers and SOC operational activities. Assist with preparation of security reports. Research current cybersecurity threats and vulnerabilities. Learn and follow SOC SOPs, playbooks, and investigation procedures. Support vulnerability scanning and basic vulnerability analysis when required. Technologies You Will Learn SIEM/SOAR EDR/XDR Microsoft Entra ID Microsoft 365 Security Azure Security AWS Security Threat Intelligence Incident Response MITRE ATT&CK Vulnerability Management Security Monitoring and Alert Triage Candidate Profile Degree/Diploma in Cybersecurity, Computer Science, Information Technology, or a related field. Basic understanding of networking and operating systems. Basic understanding of cybersecurity concepts. Good analytical and problem-solving skills. Strong interest in Security Operations and Cybersecurity. Good written and verbal communication skills. Willingness to learn and work in a team environment. Willingness to work rotational shifts Good to Have Knowledge of Linux and Windows. Security+ / SC-900 / SC-200 or equivalent training. Cybersecurity lab or CTF experience. Personal projects related to cybersecurity. Career Opportunity Successful interns demonstrating strong technical and analytical skills may be considered for a SOC Analyst position based on performance and available opportunities."
+    },
+    {
+      "id": "4484059125",
+      "title": "SOC Analyst L1 - Al-Khobar- Saudi National",
+      "company": "IT Security C&T",
+      "location": "Al Khobar, Eastern, Saudi Arabia",
+      "posted": "1 hour ago",
+      "posted_date": "2026-10-27",
+      "url": "https://www.linkedin.com/jobs/view/4484059125/",
+      "hours_ago": 1,
+      "applicants": "43 applicants",
+      "seniority": "Not Applicable",
+      "description": "Company Description IT Security C&T is an innovative, fast-growing security consulting and training company. Our management team combined with our consultants and engineers work together to deliver comprehensive security solutions to our customers around the MENA region. IT Security C&T is continuously expanding its team of qualified professionals for a wide range of opportunities. Interested candidates are required to apply via our Career webpage on our website (www.itsecurityct.com) Job Description The Security Analyst will participate and be part of information security monitoring and incident handling team in order to monitor and manage all information security incidents and risks and solve them as per the business security requirements. The Security Analyst will work and follow-up with the IT Teams and other Business Units to develop action plans to mitigate identified vulnerabilities and promote security initiatives. Key Activities Include: Work as part of 24x7 security operation team Monitor the Security Information and Event Management System (SIEM) and follow up all related security incidents and events. Follow the day-to-day operations related to own job to ensure continuity of work Respond to security incidents and report on incident handling and resolution. Participate in forensic analysis and data recovery, and penetration testing. Perform daily security analysis and scanning and assessment for information security risks, threats and vulnerabilities. Proactive research to identify and understand new threats, vulnerabilities, and exploits. Configuration and administration of security systems and tools. Define and evaluate security technologies required to ensure safe technology operation and detection of cyber-attack. Provide the security recommendations on actions which assist in improving security posture within CLIENT Environment. Follow all relevant departmental policies, processes, standard operating procedures and instructions so that work is carried out in a controlled and consistent manner Participating in reviewing and documenting computer security and emergency gate identified vulnerabilities and promote security initiatives. Qualifications Bachelor’s degree in IT, Engineering 1+ years of experience in IT/Security operations or SOC role. Network+, CCNA R&S, Security +, Linux security, windows security or forensics training is plus. Professional Security certification preferred (CIHE, CEH, CPTE, or equivalent). Knowledge and experience in network switches, routers and firewalls Knowledge of Microsoft Word, Project, Excel, Access, Additional Information Skills: Verbal Presentation Skills/negotiations. Excellent time management skills. Excellent written and verbal communications skills in English and Arabic"
+    }
+  ]
 }
