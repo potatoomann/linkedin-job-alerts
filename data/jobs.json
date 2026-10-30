@@ -1,5 +1,32 @@
 {
-  "generated_at": "2026-10-29T13:46:09.513893+00:00",
-  "count": 0,
-  "jobs": []
+  "generated_at": "2026-10-30T03:00:38.425050+00:00",
+  "count": 2,
+  "jobs": [
+    {
+      "id": "4484528667",
+      "title": "Temenos T24 Techno-Functional Consultant Security & Product Setup",
+      "company": "LeadingEdge HR Solutions",
+      "location": "Manama, Capital Governorate, Bahrain",
+      "posted": "10 hours ago",
+      "posted_date": "2026-10-29",
+      "url": "https://www.linkedin.com/jobs/view/4484528667/",
+      "hours_ago": 10,
+      "applicants": "Be among the first 25 applicants",
+      "seniority": "Not Applicable",
+      "description": "Job Title: Temenos T24 Techno-Functional Consultant Security & Product Setup Location: Bahrain Contract: 1 Year Job Summary Our client is hiring an experienced Temenos T24 Techno-Functional Consultant with strong expertise in the T24 Security Module and Product Setup. The role requires deep functional understanding of banking processes and technical knowledge of T24/Transact to ensure secure, compliant, and accurately configured core banking operations. The consultant will translate business requirements into technical delivery, support audits, and handle both configuration and troubleshooting tasks. Key Responsibilities Security Module (Techno-Functional) Act as SME for T24 Security Module. Design, configure, and implement RBAC, User Profiles, User Groups, and Entitlements (USER.PROFILE, USER, USER.GROUP, PGM.FILE). Configure permissions, transaction limits, and authorization workflows aligned with regulatory and internal controls. Conduct regular security audits and compliance reviews. Provide L3 support for complex security issues and recommend solutions. Product Setup (Functional) Lead product setup and parameterization across: Lending/Loans (Arrangement Architecture mandatory). Deposits/Accounts (current, savings, fixed deposits). Retail/Customer (customer and limit setup). System Controls (COB, Period End, charges/commissions). Convert detailed business requirements into functional/technical specs. Develop and execute test cases; support UAT for new product configurations. Techno-Functional Bridge Conduct gap analysis and propose optimized T24-based solutions. Liaise between business units, functional teams, and technical development. Prepare FSDs, TSDs, SOPs, and user manuals. Requirements 5+ years techno-functional experience with Temenos T24/Transact. Strong hands-on expertise in T24 Security Module configuration. Proven experience in T24 product setup and multi-module parameterization. Mandatory experience with Arrangement Architecture (AA). Understanding of retail, corporate, and treasury banking processes. Technical familiarity with TAFC/TAFJ, jBase, OFS, and integration technologies. Excellent English communication skills (verbal & written). Experience in Bahrain or GCC banking sector. Desirable Temenos certification (preferred). Experience in Bahrain or GCC banking sector."
+    },
+    {
+      "id": "4483042875",
+      "title": "Penetration Tester | Vulnerability Analyst",
+      "company": "Abu Dhabi Commercial Engineering Services",
+      "location": "Abu Dhabi Emirate, United Arab Emirates",
+      "posted": "12 hours ago",
+      "posted_date": "2026-10-29",
+      "url": "https://www.linkedin.com/jobs/view/4483042875/",
+      "hours_ago": 12,
+      "applicants": "Be among the first 25 applicants",
+      "seniority": "Entry level",
+      "description": "🔐 We’re Hiring: Penetration Tester | Vulnerability Analyst 🕒 Employment Type: Full-Time 💼 Level: Mid-Level to Senior We are seeking a skilled and security-focused Penetration Tester | Vulnerability Analyst to identify, assess, and help remediate security weaknesses across applications, networks, systems, and digital infrastructure. The ideal candidate will combine hands-on security testing, vulnerability assessment, risk analysis, and technical reporting to strengthen the organization's overall security posture. 🎯 Key Responsibilities • Conduct authorized penetration testing across web applications, APIs, networks, servers, cloud environments, and other approved systems. • Perform vulnerability assessments to identify security weaknesses, misconfigurations, outdated components, and exposure risks. • Define testing scope, objectives, methodologies, rules of engagement, and assessment requirements. • Conduct reconnaissance and asset discovery within approved testing environments. • Assess applications and infrastructure for common security vulnerabilities and configuration weaknesses. • Perform manual and automated security testing using appropriate industry-standard tools. • Validate identified vulnerabilities and distinguish genuine security risks from false positives. • Assess vulnerability severity based on technical impact, exploitability, business exposure, and risk. • Analyze attack paths and identify potential ways multiple weaknesses could affect an environment. • Test authentication, authorization, session management, input validation, access controls, and other security mechanisms. • Assess APIs, web services, mobile applications, and cloud-based services where applicable. • Conduct network and infrastructure security assessments across approved internal and external environments. • Review system configurations, security controls, network architectures, and technical documentation. • Perform vulnerability scanning and prioritize findings according to organizational risk-management requirements. • Research newly disclosed vulnerabilities, security advisories, exploits, and emerging attack techniques. • Monitor vulnerability trends and assess whether newly discovered issues affect organizational assets. • Work with system administrators, developers, DevOps teams, and security engineers to investigate security findings. • Provide clear technical remediation recommendations for identified vulnerabilities. • Conduct validation or retesting activities after remediation to confirm that vulnerabilities have been appropriately addressed. • Prepare detailed penetration-testing and vulnerability-assessment reports for technical and management audiences. • Document evidence, affected assets, security impact, risk ratings, and recommended remediation actions. • Present assessment findings to stakeholders and explain technical risks in business-relevant terms. • Maintain accurate records of vulnerabilities, remediation status, testing activities, and "
+    }
+  ]
 }
