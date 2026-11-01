@@ -1,5 +1,19 @@
 {
-  "generated_at": "2026-11-01T02:38:57.448149+00:00",
-  "count": 0,
-  "jobs": []
+  "generated_at": "2026-11-01T13:49:51.375323+00:00",
+  "count": 1,
+  "jobs": [
+    {
+      "id": "4483990096",
+      "title": "OT Cybersecurity Specialist / SME",
+      "company": "Command Post QFZ LLC",
+      "location": "Doha, Qatar",
+      "posted": "3 hours ago",
+      "posted_date": "2026-11-01",
+      "url": "https://www.linkedin.com/jobs/view/4483990096/",
+      "hours_ago": 3,
+      "applicants": "35 applicants",
+      "seniority": "Entry level",
+      "description": "We are currently looking for suitable candidates for an OT Cybersecurity Specialist / SME role. Location:Doha, Qatar Employment Type:Full-time Work Model:On-site / Client-facing Key Responsibilities: Design and validate secure OT/ICS/SCADA architectures aligned with ISA/IEC 62443, NIST CSF, Purdue Model, and Zero Trust principles. Conduct OT security assessments, vulnerability reviews, risk modeling, and remediation planning for industrial assets, including PLCs, RTUs, and control systems. Develop secure network segmentation, zones and conduits, and remote-access architectures for critical infrastructure environments. Implement and integrate OT security solutions and asset visibility/monitoring platforms, including Nozomi Networks and Claroty. Collaborate with Engineering, SOC, and IT/OT teams to embed security into system design and operations. Lead OT cybersecurity workshops and develop security roadmaps, operating models, and strategic transformation initiatives. Support incident-response planning, cyber-resilience assessments, and red/blue team exercises. Provide technical leadership and act as an SME for industrial cybersecurity engagements. Support solution engineering, presales activities, proposal development, and creation of OT security services and offerings. Candidate Requirements: Strong expertise in OT Security, ICS, SCADA, Industrial Networks, and Critical Infrastructure Security. Hands-on experience with industrial cybersecurity frameworks, risk assessments, security architecture, and compliance requirements. Proven ability to lead client engagements, deliver complex OT security projects, and provide strategic cybersecurity guidance. Excellent stakeholder management, communication, and technical leadership skills. About Command Post Command Post helps organisations strengthen cybersecurity, data governance, privacy, and operational resilience. Our consultants work closely with clients to translate industry standards, strategic objectives, and governance requirements into practical, sustainable operational outcomes. How to Apply Interested candidates are invited to apply through the LinkedIn job posting with their updated CV. Applicants are requested to include the following information: Current location Notice period / availability to join Expected salary A brief summary of hands-on experience Equal Opportunity Statement Command Post is committed to fair and inclusive recruitment practices. All applications will be assessed based on relevant qualifications, professional capabilities, experience, and the requirements of the position."
+    }
+  ]
 }
