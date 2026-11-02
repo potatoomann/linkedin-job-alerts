@@ -1,19 +1,5 @@
 {
-  "generated_at": "2026-11-02T02:46:46.307399+00:00",
-  "count": 1,
-  "jobs": [
-    {
-      "id": "4483997096",
-      "title": "Unpaid Internship, Security and Isolation QA, Dubai On-site",
-      "company": "Elchai Group",
-      "location": "Dubai, Dubai, United Arab Emirates",
-      "posted": "11 hours ago",
-      "posted_date": "2026-11-01",
-      "url": "https://www.linkedin.com/jobs/view/4483997096/",
-      "hours_ago": 11,
-      "applicants": "Be among the first 25 applicants",
-      "seniority": "Internship",
-      "description": "Job description: About the job Unpaid Internship, 8 Weeks: Security and Isolation QA, Dubai On-site Unpaid, entry-level training programme for students and recent graduates. Fully on-site in JLT, Dubai. Hours are 10:00 to 16:00 Dubai time (UTC+4). Programme Conditions Office and hours: Office 2008, Jumeirah Business Centre 1, Cluster G, Jumeirah Lakes Towers (JLT), Dubai, UAE. Fully on-site, 10:00–16:00 Dubai time. Working days and break: Monday–Friday; with a one Hour lunch break Initial stage and Internship: Three supervised initial days, before eight calendar weeks. Total proposed unpaid pathway: three initial days plus eight weeks. Compensation and expenses : Initial stage and Internship are unpaid, AED 0 stipend. Participants cover routine commute, meals and accommodation; Elchai supplies approved training tools. Business expenses require written pre-approval. Certificate: Completed Internship, required work/evidence, at least 7.5/10 and human sign-off. Internal training certificate with no external accreditation claim. About the role Learn to test branch isolation and human-approval controls. Produce repeatable test cases, observed results, reproducible defects and clear statements of what remains unverified. Elchai 3.0 develops Governance Orchestration, with Pulse as its human interface. Practise in approved training environments with synthetic data. Technical and independent QA reviewers check your evidence; authorised humans retain audit acceptance and deployment decisions. Report to the CTO with daily supervision from a named QA mentor and relevant engineers. The two core rules Keep customer, venture and function branches isolated. Obtain specific human approval before important actions. You test both rules. Engineers control access, configuration, merges and releases. You report and escalate failures, preserve evidence and retest authorised fixes. What you will learn and do Use supplied accounts and roles across two synthetic customer branches; check permitted access as well as denied cross-branch access. Test web and API permissions, resource-ID changes and incorrect role or token use within the approved lab scope. Check that an important action cannot proceed with missing approval or approval for a different action, branch or version. Examine authorised examples of search, reports, exports, downloads, notifications and logs for unintended exposure. Record the test environment/version, source rule, expected result, observed result, evidence, defect and remaining coverage gaps. Verify that audit records identify the correct branch, actor and approval event in the supplied test scenarios. Turn suitable repeatable checks into small automated regression tests under mentor review. Draft sections of an internal isolation and approval test report, explain limitations and prepare a usable handover. Cache, queue, backup, deletion and resource-limit scenarios may be introduced later when included in the approved test plan and supervised by a qu"
-    }
-  ]
+  "generated_at": "2026-11-02T16:36:25.978365+00:00",
+  "count": 0,
+  "jobs": []
 }
