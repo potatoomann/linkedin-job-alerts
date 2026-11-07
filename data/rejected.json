@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T03:15:29.706895+00:00",
+  "generated_at": "2026-11-07T13:35:46.605670+00:00",
   "cards": 35,
   "rejected": [
     {
@@ -14,13 +14,6 @@
       "company": "EY",
       "location": "Kochi, Kerala, India",
       "url": "https://www.linkedin.com/jobs/view/4476616163/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Technical Analyst",
-      "company": "Nuventure Connect",
-      "location": "Kochi, Kerala, India",
-      "url": "https://www.linkedin.com/jobs/view/4486955846/",
       "reason": "title not security/junior"
     },
     {
@@ -66,24 +59,24 @@
       "reason": "title not security/junior"
     },
     {
-      "title": "Advanced Cyber Sec Archt/Engr",
-      "company": "Honeywell Technologies",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4480350864/",
-      "reason": "applicants: 52 applicants"
+      "title": "Senior / Lead Product Cybersecurity Engineer",
+      "company": "Secure Elements India",
+      "location": "Greater Bengaluru Area",
+      "url": "https://www.linkedin.com/jobs/view/4487611354/",
+      "reason": "title not security/junior"
     },
     {
-      "title": "CYBER SECURITY ANALYST L4",
-      "company": "Wipro",
+      "title": "Senior Security Analyst",
+      "company": "Netradyne",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4488456803/",
-      "reason": "experience: None yrs, Not Applicable"
+      "url": "https://www.linkedin.com/jobs/view/4487301307/",
+      "reason": "title not security/junior"
     },
     {
-      "title": "Sr Advanced Cyb Sec Archt/Engr",
-      "company": "Honeywell Technologies",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4488126685/",
+      "title": "Lead Engineer - Product Security Representative",
+      "company": "Quest Global",
+      "location": "Greater Bengaluru Area",
+      "url": "https://www.linkedin.com/jobs/view/4487372967/",
       "reason": "title not security/junior"
     },
     {
@@ -94,31 +87,17 @@
       "reason": "title not security/junior"
     },
     {
-      "title": "Senior Application Security Engineer | Investment Platform",
-      "company": "RevUp Consulting",
-      "location": "Dubai, United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4488124330/",
+      "title": "Senior Security Assurance Specialist",
+      "company": "Global Water Partnership Southeast Asia (GWP-SEA)",
+      "location": "United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4487610382/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Senior Cyber Security Engineer - Microsoft Security",
-      "company": "Aventus",
+      "title": "Manager - Observability & Access Management (m/f/d)",
+      "company": "Halian | Managed Services, Recruitment Agency & Contract Staffing",
       "location": "Abu Dhabi Emirate, United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4486226161/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Cyber Security Consultant, Middle East & Africa",
-      "company": "Motorola Solutions",
-      "location": "Dubai, Dubai, United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4488187231/",
-      "reason": "experience: 4 yrs, Not Applicable"
-    },
-    {
-      "title": "Assistant Manager - Network & Security",
-      "company": "PureCS",
-      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4486986520/",
+      "url": "https://www.linkedin.com/jobs/view/4487389975/",
       "reason": "title not security/junior"
     },
     {
@@ -129,38 +108,66 @@
       "reason": "title not security/junior"
     },
     {
-      "title": "Cybersecurity Technology & Architecture Resource",
-      "company": "STAR SERVICES LLC.",
-      "location": "Dubai, United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4486961148/",
-      "reason": "applicants: 132 applicants"
-    },
-    {
-      "title": "Information Security Engineer (SOC)",
-      "company": "Tabby | تابي",
-      "location": "Riyadh, Saudi Arabia",
-      "url": "https://www.linkedin.com/jobs/view/4468669161/",
-      "reason": "applicants: Over 200 applicants"
-    },
-    {
-      "title": "AI Tech Consultant Cybersecurity - Riyadh | BCG Platinion",
-      "company": "Boston Consulting Group (BCG)",
-      "location": "Riyadh, Riyadh, Saudi Arabia",
-      "url": "https://www.linkedin.com/jobs/view/4435556167/",
-      "reason": "applicants: Over 200 applicants"
-    },
-    {
-      "title": "Lead Security Engineer",
-      "company": "DXC Technology",
-      "location": "Riyadh, Saudi Arabia",
-      "url": "https://www.linkedin.com/jobs/view/4488154424/",
+      "title": "Sr Network Security Engineer",
+      "company": "LanceSoft Middle East",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4487319357/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Systems Engineer",
-      "company": "A10 Networks, Inc",
-      "location": "Saudi Arabia",
-      "url": "https://www.linkedin.com/jobs/view/4453162183/",
+      "title": "Principal, Security, Cyber & Resilience Consulting",
+      "company": "Control Risks",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4488163517/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "AI Security Engineer",
+      "company": "Dicetek LLC",
+      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4488471436/",
+      "reason": "experience: 4 yrs, Not Applicable"
+    },
+    {
+      "title": "Security Assurance Specialist, UAE, AWS Compliance and Security Assurance",
+      "company": "Amazon Web Services (AWS)",
+      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4462826100/",
+      "reason": "applicants: Over 200 applicants"
+    },
+    {
+      "title": "ICS Cybersecurity Enginer - Renewable Power",
+      "company": "Air Products",
+      "location": "Duba, Tabuk, Saudi Arabia",
+      "url": "https://www.linkedin.com/jobs/view/4416697783/",
+      "reason": "applicants: Over 200 applicants"
+    },
+    {
+      "title": "ICS Cybersecurity Engineer",
+      "company": "Air Products",
+      "location": "Duba, Tabuk, Saudi Arabia",
+      "url": "https://www.linkedin.com/jobs/view/4416682881/",
+      "reason": "applicants: Over 200 applicants"
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "company": "Thales",
+      "location": "Eastern Region",
+      "url": "https://www.linkedin.com/jobs/view/4471886585/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Lecturer / Assistant Professor - Computer Science, Data Science, Cybersecurity & Computer Networks in Saudi Arabia",
+      "company": "EduGlobal Management",
+      "location": "Riyadh, Saudi Arabia",
+      "url": "https://www.linkedin.com/jobs/view/4488412935/",
+      "reason": "applicants: 131 applicants"
+    },
+    {
+      "title": "L2 Operation & Support Engineer",
+      "company": "Thales",
+      "location": "Eastern Region",
+      "url": "https://www.linkedin.com/jobs/view/4471896079/",
       "reason": "title not security/junior"
     },
     {
@@ -171,11 +178,11 @@
       "reason": "title not security/junior"
     },
     {
-      "title": "WAN Security Engineer - Secret Clearance",
-      "company": "V2X Inc",
-      "location": "Kuwait City, Al Asimah, Kuwait",
-      "url": "https://www.linkedin.com/jobs/view/4481926713/",
-      "reason": "experience: 10 yrs, Not Applicable"
+      "title": "ICS Cybersecurity Engineer",
+      "company": "Air Products",
+      "location": "Duba, Tabuk, Saudi Arabia",
+      "url": "https://www.linkedin.com/jobs/view/4416684883/",
+      "reason": "applicants: Over 200 applicants"
     },
     {
       "title": "Chief Watch Officer - Secret Clearance",
