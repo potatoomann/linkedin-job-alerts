@@ -1,5 +1,19 @@
 {
-  "generated_at": "2026-11-07T13:35:46.605670+00:00",
-  "count": 0,
-  "jobs": []
+  "generated_at": "2026-11-08T02:44:25.241764+00:00",
+  "count": 1,
+  "jobs": [
+    {
+      "id": "4486654645",
+      "title": "Software Engineer - Cybersecurity",
+      "company": "QuantumGenie Inc.",
+      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+      "posted": "6 hours ago",
+      "posted_date": "2026-11-07",
+      "url": "https://www.linkedin.com/jobs/view/4486654645/",
+      "hours_ago": 6,
+      "applicants": "Be among the first 25 applicants",
+      "seniority": "Entry level",
+      "description": "Full-Stack Software Engineer – Cybersecurity Platform Location: Abu Dhabi — Remote Employment type: Full-time Company: QuantumGenie, Inc. About QuantumGenie QuantumGenie is a post-quantum cryptography and cybersecurity company building products for cryptographic discovery, inventory, dependency mapping, risk assessment, crypto-agility planning, and migration to quantum-safe systems. Our platform identifies cryptography across source code, cloud infrastructure, databases, certificates, endpoints, and enterprise systems. It converts evidence into a Cryptographic Bill of Materials (CBOM), discovery records, asset inventories, and relationship maps for remediation and migration planning. We are hiring a hands-on engineer in India to maintain and improve the complete platform: application code, integrations, data models, tests, deployments, documentation, and endpoint-agent releases. Early-career candidates with strong practical ability are welcome. We value demonstrated ownership, technical judgment, learning speed, and careful execution over pedigree. What you will own Maintain and extend a production Node.js and Express application written primarily in JavaScript, with newer TypeScript and React interfaces. Diagnose problems across frontend pages, backend services, APIs, authentication, scheduled jobs, data pipelines, and MongoDB. Maintain integrations with cloud, source-control, database, endpoint-security, PKI, and observability platforms. Work with REST APIs, OAuth, access tokens, webhooks, SDKs, pagination, rate limits, retries, background jobs, and least-privilege permissions. Improve schemas supporting assets, agents, discovery runs, evidence, CBOM records, relationships, connectors, releases, and tenant-scoped data. Maintain workflows for connecting systems, running scans, reviewing findings, and exporting results. Support our Go endpoint agent and its Linux and Windows releases, including services, registration, telemetry, discovery, signed updates, and rollback. Troubleshoot Linux, Windows Server, cloud, proxy, firewall, DNS, TLS, private-CA, and MongoDB connectivity issues. Write and maintain unit, integration, and browser tests using Node’s test runner, Vitest, Playwright, and Testing Library. Take production issues from logs and reproduction through root cause, controlled fix, verification, and documentation. Turn customer and pilot requirements into small, reviewable improvements with the founders. Core technical requirements We expect practical proficiency in most of the following: JavaScript, TypeScript, and Node.js, including asynchronous programming, APIs, validation, error handling, and production debugging. Express or a comparable backend framework, including routing, middleware, authentication, authorization, rate limiting, and secure API design. React, HTML, CSS, Vite, responsive interfaces, and component-level testing. MongoDB, including document modelling, indexes, aggregation, migrations, tenant-scoped queries, performance a"
+    }
+  ]
 }
