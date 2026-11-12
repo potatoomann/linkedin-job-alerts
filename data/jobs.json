@@ -1,19 +1,5 @@
 {
-  "generated_at": "2026-11-11T14:44:55.295275+00:00",
-  "count": 1,
-  "jobs": [
-    {
-      "id": "4488684255",
-      "title": "🚀 We're Hiring: Product Security Engineer (Peripheral & Embedded Device Security)",
-      "company": "QuantumCommit",
-      "location": "Bengaluru, Karnataka, India",
-      "posted": "4 hours ago",
-      "posted_date": "2026-11-11",
-      "url": "https://www.linkedin.com/jobs/view/4488684255/",
-      "hours_ago": 4,
-      "applicants": "Be among the first 25 applicants",
-      "seniority": "Entry level",
-      "description": "🚀 WE'RE HIRING | PRODUCT SECURITY ENGINEER – PERIPHERAL & EMBEDDED DEVICE SECURITY QuantumCommit is looking for experienced Product Security Engineers for an exciting opportunity in Bengaluru. 📍 Location: Bengaluru 💼 Experience: 5–8 Years 💰 Budget: Up to ₹19 LPA 🏢 Employment Type: Full-Time Mandatory Skills Peripheral & Embedded Device Security Firmware Security Product Security Application Security C Programming Language Python / C / C++ Job Description We are looking for an experienced Product Security Engineer to perform security testing of peripheral and embedded devices connected to various host systems. Key Responsibilities Develop security test plans, threat models and test cases. Perform security testing of USB, Bluetooth, wireless and other communication interfaces. Conduct firmware security assessments, including firmware updates, authentication and integrity verification. Perform penetration testing, vulnerability assessments and protocol fuzzing. Develop security testing tools, fuzzing scripts and automation frameworks. Identify, analyze, reproduce and report security vulnerabilities. Perform bug-fix verification and regression testing. Collaborate with development teams to resolve security issues. Required Technical Skills Strong understanding of product security and vulnerability assessment. Experience in embedded device, USB, Bluetooth or wireless security testing. Knowledge of firmware security, communication protocols and device drivers. Experience in penetration testing, fuzzing and vulnerability analysis. Programming skills in Python and C/C++. Familiarity with Linux/Windows environments and debugging tools. Understanding of memory corruption vulnerabilities, authentication and access control. Preferred Skills Embedded systems or IoT security experience. USB protocol analysis and Bluetooth security. Firmware reverse engineering and protocol fuzzing. Familiarity with Wireshark, Ghidra and fuzzing frameworks. 📩 HOW TO APPLY Interested candidates can share their updated resumes. 📧 Email: hrd@quantumcommit.com Or send your profile through LinkedIn DM. Please include: Candidate Name Contact Number Email ID Total Experience Embedded / Product Security Experience Firmware Security Experience C / C++ Experience Python Experience Current Company and Location Current CTC Expected CTC Notice Period Earliest Date of Joining ⚠️ Please apply only if your experience matches the mandatory security skills. #Hiring #ProductSecurity #EmbeddedSecurity #FirmwareSecurity #ApplicationSecurity #CyberSecurity #CProgramming #Python #BengaluruJobs #QuantumCommit"
-    }
-  ]
+  "generated_at": "2026-11-12T04:21:56.231895+00:00",
+  "count": 0,
+  "jobs": []
 }
