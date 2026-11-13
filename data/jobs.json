@@ -1,32 +1,5 @@
 {
-  "generated_at": "2026-11-13T03:38:34.897487+00:00",
-  "count": 2,
-  "jobs": [
-    {
-      "id": "4490366955",
-      "title": "Cybersecurity & Digital Solution Assistant Engineer Intern (12 months)",
-      "company": "Roche",
-      "location": "Kuwait City, Al Asimah, Kuwait",
-      "posted": "9 hours ago",
-      "posted_date": "2026-11-12",
-      "url": "https://www.linkedin.com/jobs/view/4490366955/",
-      "hours_ago": 9,
-      "applicants": "25 applicants",
-      "seniority": "Entry level",
-      "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections, where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. The Position The Roche Diagnostics Kuwait early in career Program is a 12 months rotational development program at Roche. The program is tailored for high potential individuals at an early stage of their career, and NO work experience is required. The program accelerates their professional development and enables them to be key contributors to Roche's purpose and what patients need next. Roche Kuwait offers a Cybersecurity and Digital Solution Assistant Engineer internship for a period of 12 months with the below main responsibilities: Support the Information Security Management System (ISMS) in line with ISO/IEC 27001 and the NIST Cybersecurity Framework Assist in cybersecurity and privacy risk assessments for digital laboratory solutions and connected analyzers (LIS, HIS, middleware, remote connectivity) Support data privacy and protection activities in line with GDPR principles and applicable Kuwait regulations Follow up on Kuwait National Cyber Security Center (NCSC) requirements and help prepare compliance documentation Connect with Roche regional and global security teams, and with customer IT and information security teams, during digital solution approvals Create and maintain security plans, procedures, checklists and awareness materials Support the safe and responsible use of AI by helping identify AI security and data protection risks Help monitor, document and follow up on security incidents and corrective actions Collaborate with IT technical staff and engineers while supporting the customer during testing and deployment of digital solutions Apply analytical thinking and problem-solving, and recommend innovative solutions Your Opportunity Participants build an extensive network within Roche and upskill themselves Best possible work environment is designed to foster participants' learning experience Participants will have access to senior leaders and will be assigned to a mentor to support their career journey Contributing to purpose driven projects and taking responsibilities from day 1 Hands-on exposure to cybersecurity, data privacy and digital healthcare solutions, working with the Middle East Cybersecurity Community of Practice Who You Are You hold a Bachelor degree in IT, Computer Science, Computer Engineering or relevant fields, with specialization in information/cyber security You are at an early stage in your career. Fresh graduates will be preferred You have basic knowledge of cybersecurity and privacy protection fundamentals You are familiar with security standards and fra"
-    },
-    {
-      "id": "4490368486",
-      "title": "Offensive Security & Threat Hunting Engineer",
-      "company": "Glomo",
-      "location": "Bengaluru, Karnataka, India",
-      "posted": "11 hours ago",
-      "posted_date": "2026-11-12",
-      "url": "https://www.linkedin.com/jobs/view/4490368486/",
-      "hours_ago": 11,
-      "applicants": "Be among the first 25 applicants",
-      "seniority": "Not Applicable",
-      "description": "About Us Glomo builds cross-border payment infrastructure. Our network connects local payment rails across countries, so customers move money across borders in seconds. We are a licensed Payment Service Provider at GIFT IFSC, regulated by IFSCA, and the first of our kind in India. We are also a Visa Principal Member, the first non-bank acquirer in India to join the network, so we acquire and process Visa card payments directly. The team behind Glomo has more than 100 years of combined experience in building large payment products. YOUR IMPACT Glomo moves real money across borders and handles card data and customer KYC records. That makes us a target. This role exists to find the ways into our systems before an attacker does, and to catch the ones who get in anyway. You split your time between offence and hunting. On offence, you test our cloud, APIs, networks, and employee endpoints the way a real attacker would. On the hunting side, you work through endpoint, network, and identity logs for what our alerts missed. You work alongside the IT and Infrastructure team and see each finding through to the fix. Your testing also backs our PCI-DSS and regulatory audits. What You Will Do Penetration testing. Run regular internal and external tests across our networks, cloud environments, APIs, and employee endpoints to uncover weak points and misconfigurations. Threat hunting. Dig through endpoint telemetry (EDR), network logs, and identity provider logs for unauthorised access, lateral movement, and anomalies that our automated alerts did not catch. Adversary simulation and purple teaming . Simulate realistic attacks, including credential theft, phishing, and AI-assisted attacks, then work with our IT and Infrastructure team to close the gaps you find. Automation. Write scripts and use AI-assisted security tools so that vulnerability discovery and attack surface monitoring run continuously. Reporting. Write up each finding so that an engineer can act on it: what you did, what it exposes, and how to fix it, in priority order. No bloated, copy-pasted scanner reports. What You Will Bring Experience. 3+ years of hands-on work in penetration testing, red teaming, or threat hunting. Endpoint and network depth. You know Windows and Linux internals, Active Directory and cloud identity attacks, and how Endpoint Detection and Response (EDR) tools work. Tooling and scripting. You are comfortable with Burp Suite, Nmap, BloodHound, and Metasploit, you write SIEM and EDR queries, and you script in Python, PowerShell, or Bash. AI awareness. You know how attackers use AI, for example for automated recon, you can test LLM and API security, and you use automation to scale your own testing. Practical credentials. Hands-on certifications such as OSCP, CRTO, PNPT, or GCTI matter more to us than a purely theoretical degree. GOOD TO HAVE An active bug bounty profile on HackerOne or Bugcrowd Open-source security tools that you built or contribute to Security testing in payments "
-    }
-  ]
+  "generated_at": "2026-11-13T14:56:13.035970+00:00",
+  "count": 0,
+  "jobs": []
 }
