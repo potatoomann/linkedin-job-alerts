@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T03:37:44.353239+00:00",
-  "cards": 36,
+  "generated_at": "2026-11-14T13:48:55.612847+00:00",
+  "cards": 35,
   "rejected": [
     {
       "title": "RC-DR-IT Infrastructure Assessment-Senior",
@@ -10,10 +10,10 @@
       "reason": "title not security/junior"
     },
     {
-      "title": "TC-CS-Cyber Architecture- OT and Engineering-Cloud Security-Senior",
+      "title": "RC-DR-Cloud Security Assessment-Senior",
       "company": "EY",
       "location": "Kochi, Kerala, India",
-      "url": "https://www.linkedin.com/jobs/view/4488924282/",
+      "url": "https://www.linkedin.com/jobs/view/4480656997/",
       "reason": "title not security/junior"
     },
     {
@@ -24,17 +24,10 @@
       "reason": "title not security/junior"
     },
     {
-      "title": "Corporate Innovation Lab Leader",
-      "company": "Reply",
+      "title": "Azure reliability Engineer",
+      "company": "Aleddo Technologies - A Dubai AI Seal Enterprise",
       "location": "Kochi, Kerala, India",
-      "url": "https://www.linkedin.com/jobs/view/4455468389/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "RC-DR-Cloud Security Assessment-Senior",
-      "company": "EY",
-      "location": "Kochi, Kerala, India",
-      "url": "https://www.linkedin.com/jobs/view/4480656997/",
+      "url": "https://www.linkedin.com/jobs/view/4489341424/",
       "reason": "title not security/junior"
     },
     {
@@ -52,34 +45,6 @@
       "reason": "title not security/junior"
     },
     {
-      "title": "Risk Consulting-Digital Risk-Manager-Tech And Cyber Audit",
-      "company": "EY",
-      "location": "Kochi, Kerala, India",
-      "url": "https://www.linkedin.com/jobs/view/4488900244/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Risk Platforms - Oracle GRC - Manager",
-      "company": "EY",
-      "location": "Kochi, Kerala, India",
-      "url": "https://www.linkedin.com/jobs/view/4488916642/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Risk Platforms - Oracle GRC - Staff",
-      "company": "EY",
-      "location": "Kochi, Kerala, India",
-      "url": "https://www.linkedin.com/jobs/view/4489576408/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Principal Cyber Security Test Engineer",
-      "company": "OneAdvanced",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4477403198/",
-      "reason": "title not security/junior"
-    },
-    {
       "title": "Principal Analyst - SOC | On-site, Bangalore",
       "company": "Optiv",
       "location": "Bengaluru, Karnataka, India",
@@ -87,32 +52,18 @@
       "reason": "title not security/junior"
     },
     {
-      "title": "Associate- Product Security",
-      "company": "AstroFarm by 42Gears",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4488953154/",
-      "reason": "applicants: 101 applicants"
-    },
-    {
-      "title": "Pen Testing - Manager",
-      "company": "Deloitte",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4453208567/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "TC-CS-Cyber Architecture- OT and Engineering-Cloud Security-Senior",
-      "company": "EY",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4488922523/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Technical Consultant-Application Security",
+      "title": "Security Consultant-Application Security",
       "company": "IBM",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4480669425/",
-      "reason": "applicants: 68 applicants"
+      "url": "https://www.linkedin.com/jobs/view/4489335355/",
+      "reason": "experience: None yrs, Mid-Senior level"
+    },
+    {
+      "title": "Sr. Security Engineer, Stores Application Security",
+      "company": "Amazon",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4455914105/",
+      "reason": "title not security/junior"
     },
     {
       "title": "Product Security Architect IRC286354",
@@ -122,18 +73,25 @@
       "reason": "title not security/junior"
     },
     {
-      "title": "Senior Penetration Tester (AWS)",
-      "company": "Offchain",
-      "location": "United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4488905710/",
-      "reason": "title not security/junior"
+      "title": "Information Security Incident Analyst - Bengaluru",
+      "company": "Omnissa",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4489585590/",
+      "reason": "experience: None yrs, Not Applicable"
     },
     {
-      "title": "Senior Application Security Engineer",
-      "company": "RootstockLabs",
-      "location": "United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4488917079/",
-      "reason": "title not security/junior"
+      "title": "Product Security Engineer (Cloud Sec)",
+      "company": "Infoblox",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4488960013/",
+      "reason": "applicants: 64 applicants"
+    },
+    {
+      "title": "Security and Threat Operations Engineer",
+      "company": "OnePay",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4485755094/",
+      "reason": "applicants: Over 200 applicants"
     },
     {
       "title": "Senior Analyst - SOC Monitoring (UAEN)",
@@ -143,24 +101,73 @@
       "reason": "title not security/junior"
     },
     {
-      "title": "Senior Security Event Correlation Specialist",
-      "company": "Lean Six Sigma Processes",
+      "title": "Senior Biometric Authentication Performance Specialist",
+      "company": "Contrato Humano Py",
       "location": "United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4488951821/",
+      "url": "https://www.linkedin.com/jobs/view/4489309992/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Senior Security Operations Engineer (SecOps | AI Security)",
-      "company": "GCS",
+      "title": "Information Security Specialist - Implementation & Operations (Fixed Contract)",
+      "company": "Daikin Middle East and Africa",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4490752800/",
+      "reason": "applicants: 72 applicants"
+    },
+    {
+      "title": "Specialist – Cyber Academy",
+      "company": "CPX",
       "location": "Abu Dhabi Emirate, United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4489542987/",
+      "url": "https://www.linkedin.com/jobs/view/4490737534/",
+      "reason": "experience: 5 yrs, Mid-Senior level"
+    },
+    {
+      "title": "Application Security Engineer (Remote)",
+      "company": "Joblet-AI",
+      "location": "United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4489860112/",
+      "reason": "experience: None yrs, Associate"
+    },
+    {
+      "title": "Senior Engineer Linux",
+      "company": "EDGE",
+      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4489000399/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Senior Security Engineer I",
-      "company": "HungerStation | هنقرستيشن",
+      "title": "Senior Smart Contract Verification Specialist",
+      "company": "App Insights",
+      "location": "United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4491058512/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "SAP IAM / IAG Consultant (Ref: 198571)",
+      "company": "Forsyth Barnes Consultancy",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4488993226/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "System & Network Administrator",
+      "company": "Artan Holding",
+      "location": "Doha, Doha, Qatar",
+      "url": "https://www.linkedin.com/jobs/view/4489867721/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Azure Administrator",
+      "company": "Nair Systems LLC",
+      "location": "Doha, Qatar",
+      "url": "https://www.linkedin.com/jobs/view/4489894214/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Director of Information Security (Saudi Only)",
+      "company": "Lucidya | لوسيديا",
       "location": "Riyadh, Riyadh, Saudi Arabia",
-      "url": "https://www.linkedin.com/jobs/view/4436530746/",
+      "url": "https://www.linkedin.com/jobs/view/4491066928/",
       "reason": "title not security/junior"
     },
     {
@@ -171,6 +178,13 @@
       "reason": "title not security/junior"
     },
     {
+      "title": "Encryption Engineer",
+      "company": "Aman Solutions For Cybersecurity",
+      "location": "Saudi Arabia",
+      "url": "https://www.linkedin.com/jobs/view/4489331791/",
+      "reason": "title not security/junior"
+    },
+    {
       "title": "Linux Engineer",
       "company": "KTek Resourcing",
       "location": "Thuwal, Makkah, Saudi Arabia",
@@ -178,18 +192,18 @@
       "reason": "title not security/junior"
     },
     {
-      "title": "Head of IT Audit",
-      "company": "TAT IT Technolgies",
-      "location": "Oman",
-      "url": "https://www.linkedin.com/jobs/view/4489559305/",
+      "title": "IT Manager (Saudi Only)",
+      "company": "Lucidya | لوسيديا",
+      "location": "Riyadh, Riyadh, Saudi Arabia",
+      "url": "https://www.linkedin.com/jobs/view/4491080306/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Network Security Engineer",
-      "company": "Penta Consulting",
-      "location": "Kuwait City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4490734739/",
-      "reason": "experience: 8 yrs, Mid-Senior level"
+      "title": "Audit Manager, Technology & Cyber Security",
+      "company": "Kuwait Finance House",
+      "location": "Manama, Capital Governorate, Bahrain",
+      "url": "https://www.linkedin.com/jobs/view/4489345125/",
+      "reason": "title not security/junior"
     }
   ]
 }
