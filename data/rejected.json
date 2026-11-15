@@ -1,62 +1,41 @@
 {
-  "generated_at": "2026-11-14T13:48:55.612847+00:00",
-  "cards": 35,
+  "generated_at": "2026-11-15T03:08:20.305191+00:00",
+  "cards": 26,
   "rejected": [
     {
-      "title": "RC-DR-IT Infrastructure Assessment-Senior",
-      "company": "EY",
-      "location": "Kochi, Kerala, India",
-      "url": "https://www.linkedin.com/jobs/view/4480672218/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "RC-DR-Cloud Security Assessment-Senior",
-      "company": "EY",
-      "location": "Kochi, Kerala, India",
-      "url": "https://www.linkedin.com/jobs/view/4480656997/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Snr. Site Reliability Engineer (Position located in Kochi, India)",
-      "company": "KnowBe4",
-      "location": "Kochi, Kerala, India",
-      "url": "https://www.linkedin.com/jobs/view/4489811949/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Azure reliability Engineer",
-      "company": "Aleddo Technologies - A Dubai AI Seal Enterprise",
-      "location": "Kochi, Kerala, India",
-      "url": "https://www.linkedin.com/jobs/view/4489341424/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "GDS Cyber - Frontier AI Layered Defense Detection and Response - Senior",
-      "company": "EY",
-      "location": "Kochi, Kerala, India",
-      "url": "https://www.linkedin.com/jobs/view/4453415421/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "GMS-Senior-BeyondTrust",
-      "company": "EY",
-      "location": "Kochi, Kerala, India",
-      "url": "https://www.linkedin.com/jobs/view/4480638222/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Principal Analyst - SOC | On-site, Bangalore",
-      "company": "Optiv",
+      "title": "Senior Engineer, Product Security Testing",
+      "company": "News Corp",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4473744957/",
+      "url": "https://www.linkedin.com/jobs/view/4465835328/",
       "reason": "title not security/junior"
     },
     {
       "title": "Security Consultant-Application Security",
       "company": "IBM",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4489335355/",
+      "url": "https://www.linkedin.com/jobs/view/4489341215/",
       "reason": "experience: None yrs, Mid-Senior level"
+    },
+    {
+      "title": "Digital Technology Specialist - Product Security",
+      "company": "Baker Hughes",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4482111802/",
+      "reason": "applicants: 81 applicants"
+    },
+    {
+      "title": "Zenskar - Product Security Engineer",
+      "company": "Zenskar",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4491096986/",
+      "reason": "experience: 3 yrs, Not Applicable"
+    },
+    {
+      "title": "CYBER SECURITY ANALYST L4",
+      "company": "Wipro",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4491097866/",
+      "reason": "experience: None yrs, Not Applicable"
     },
     {
       "title": "Sr. Security Engineer, Stores Application Security",
@@ -66,38 +45,31 @@
       "reason": "title not security/junior"
     },
     {
-      "title": "Product Security Architect IRC286354",
-      "company": "GlobalLogic",
+      "title": "Security Engineer, Stores Application Security",
+      "company": "Amazon",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4454701507/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Information Security Incident Analyst - Bengaluru",
-      "company": "Omnissa",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4489585590/",
-      "reason": "experience: None yrs, Not Applicable"
-    },
-    {
-      "title": "Product Security Engineer (Cloud Sec)",
-      "company": "Infoblox",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4488960013/",
-      "reason": "applicants: 64 applicants"
-    },
-    {
-      "title": "Security and Threat Operations Engineer",
-      "company": "OnePay",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4485755094/",
+      "url": "https://www.linkedin.com/jobs/view/4465842349/",
       "reason": "applicants: Over 200 applicants"
     },
     {
-      "title": "Senior Analyst - SOC Monitoring (UAEN)",
-      "company": "CPX",
-      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4473109584/",
+      "title": "Security Operations Center Analyst",
+      "company": "Bornsec",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4489327369/",
+      "reason": "applicants: 199 applicants"
+    },
+    {
+      "title": "IR & Forensics - Senior Consultant",
+      "company": "Deloitte",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4456011328/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Senior Security Engineer",
+      "company": "LiteLLM",
+      "location": "United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4489354424/",
       "reason": "title not security/junior"
     },
     {
@@ -108,45 +80,24 @@
       "reason": "title not security/junior"
     },
     {
-      "title": "Information Security Specialist - Implementation & Operations (Fixed Contract)",
-      "company": "Daikin Middle East and Africa",
-      "location": "Dubai, Dubai, United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4490752800/",
-      "reason": "applicants: 72 applicants"
-    },
-    {
-      "title": "Specialist – Cyber Academy",
+      "title": "Senior SOC Engineer- SIEM (UAEN)",
       "company": "CPX",
-      "location": "Abu Dhabi Emirate, United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4490737534/",
-      "reason": "experience: 5 yrs, Mid-Senior level"
-    },
-    {
-      "title": "Application Security Engineer (Remote)",
-      "company": "Joblet-AI",
-      "location": "United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4489860112/",
-      "reason": "experience: None yrs, Associate"
-    },
-    {
-      "title": "Senior Engineer Linux",
-      "company": "EDGE",
       "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4489000399/",
+      "url": "https://www.linkedin.com/jobs/view/4473107748/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Senior Smart Contract Verification Specialist",
-      "company": "App Insights",
-      "location": "United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4491058512/",
+      "title": "Junior Research Scientist in the Division of Engineering (Computer Engineering) - Dr. Jiahao Yu",
+      "company": "New York University Abu Dhabi",
+      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4473838962/",
       "reason": "title not security/junior"
     },
     {
-      "title": "SAP IAM / IAG Consultant (Ref: 198571)",
-      "company": "Forsyth Barnes Consultancy",
-      "location": "Dubai, Dubai, United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4488993226/",
+      "title": "Senior Linux & Virtualization Administrator",
+      "company": "VaporVM",
+      "location": "Dubai, United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4491086446/",
       "reason": "title not security/junior"
     },
     {
@@ -157,10 +108,10 @@
       "reason": "title not security/junior"
     },
     {
-      "title": "Azure Administrator",
-      "company": "Nair Systems LLC",
-      "location": "Doha, Qatar",
-      "url": "https://www.linkedin.com/jobs/view/4489894214/",
+      "title": "Solutions Engineer",
+      "company": "TrendAI",
+      "location": "Doha, Doha, Qatar",
+      "url": "https://www.linkedin.com/jobs/view/4465806387/",
       "reason": "title not security/junior"
     },
     {
@@ -171,13 +122,6 @@
       "reason": "title not security/junior"
     },
     {
-      "title": "Digital Identity & Access Management Consultant",
-      "company": "Accenture Middle East",
-      "location": "Jiddah, Makkah, Saudi Arabia",
-      "url": "https://www.linkedin.com/jobs/view/4489594647/",
-      "reason": "title not security/junior"
-    },
-    {
       "title": "Encryption Engineer",
       "company": "Aman Solutions For Cybersecurity",
       "location": "Saudi Arabia",
@@ -185,10 +129,17 @@
       "reason": "title not security/junior"
     },
     {
-      "title": "Linux Engineer",
-      "company": "KTek Resourcing",
-      "location": "Thuwal, Makkah, Saudi Arabia",
-      "url": "https://www.linkedin.com/jobs/view/4490734386/",
+      "title": "Consultant II",
+      "company": "F5",
+      "location": "Riyadh, Riyadh, Saudi Arabia",
+      "url": "https://www.linkedin.com/jobs/view/4456354302/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Information Technology Auditor",
+      "company": "Circlys App",
+      "location": "Riyadh, Saudi Arabia",
+      "url": "https://www.linkedin.com/jobs/view/4491077820/",
       "reason": "title not security/junior"
     },
     {
@@ -196,6 +147,20 @@
       "company": "Lucidya | لوسيديا",
       "location": "Riyadh, Riyadh, Saudi Arabia",
       "url": "https://www.linkedin.com/jobs/view/4491080306/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Solutions Engineer",
+      "company": "Fortra",
+      "location": "Saudi Arabia",
+      "url": "https://www.linkedin.com/jobs/view/4473805291/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Forward Deployed Engineer, Infrastructure Specialist (Middle East)",
+      "company": "Cohere",
+      "location": "Riyadh, Riyadh, Saudi Arabia",
+      "url": "https://www.linkedin.com/jobs/view/4464517198/",
       "reason": "title not security/junior"
     },
     {
