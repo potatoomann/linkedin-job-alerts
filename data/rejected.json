@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-11-15T03:08:20.305191+00:00",
-  "cards": 26,
+  "generated_at": "2026-11-15T14:20:48.883394+00:00",
+  "cards": 38,
   "rejected": [
+    {
+      "title": "Network Security Engineer",
+      "company": "Secure Network Solutions India Private Limited",
+      "location": "Kochi, Kerala, India",
+      "url": "https://www.linkedin.com/jobs/view/4491212507/",
+      "reason": "experience: None yrs, Not Applicable"
+    },
+    {
+      "title": "Senior Security Engineer (Application &Infrastructure Security)",
+      "company": "AZ eWallet",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4488526123/",
+      "reason": "title not security/junior"
+    },
     {
       "title": "Senior Engineer, Product Security Testing",
       "company": "News Corp",
@@ -10,60 +24,18 @@
       "reason": "title not security/junior"
     },
     {
-      "title": "Security Consultant-Application Security",
-      "company": "IBM",
+      "title": "Sr. Product Security Engineer",
+      "company": "Xylem",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4489341215/",
-      "reason": "experience: None yrs, Mid-Senior level"
+      "url": "https://www.linkedin.com/jobs/view/4429926214/",
+      "reason": "title not security/junior"
     },
     {
-      "title": "Digital Technology Specialist - Product Security",
-      "company": "Baker Hughes",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4482111802/",
-      "reason": "applicants: 81 applicants"
-    },
-    {
-      "title": "Zenskar - Product Security Engineer",
-      "company": "Zenskar",
+      "title": "Information Security Engineer",
+      "company": "MoonPay",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4491096986/",
-      "reason": "experience: 3 yrs, Not Applicable"
-    },
-    {
-      "title": "CYBER SECURITY ANALYST L4",
-      "company": "Wipro",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4491097866/",
+      "url": "https://www.linkedin.com/jobs/view/4466099958/",
       "reason": "experience: None yrs, Not Applicable"
-    },
-    {
-      "title": "Sr. Security Engineer, Stores Application Security",
-      "company": "Amazon",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4455914105/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Security Engineer, Stores Application Security",
-      "company": "Amazon",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4465842349/",
-      "reason": "applicants: Over 200 applicants"
-    },
-    {
-      "title": "Security Operations Center Analyst",
-      "company": "Bornsec",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4489327369/",
-      "reason": "applicants: 199 applicants"
-    },
-    {
-      "title": "IR & Forensics - Senior Consultant",
-      "company": "Deloitte",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4456011328/",
-      "reason": "title not security/junior"
     },
     {
       "title": "Senior Security Engineer",
@@ -73,10 +45,10 @@
       "reason": "title not security/junior"
     },
     {
-      "title": "Senior Biometric Authentication Performance Specialist",
-      "company": "Contrato Humano Py",
+      "title": "Senior Consultant - Digital Trust (Cyber Defense)",
+      "company": "KPMG Middle East",
       "location": "United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4489309992/",
+      "url": "https://www.linkedin.com/jobs/view/4451924036/",
       "reason": "title not security/junior"
     },
     {
@@ -85,6 +57,13 @@
       "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
       "url": "https://www.linkedin.com/jobs/view/4473107748/",
       "reason": "title not security/junior"
+    },
+    {
+      "title": "Application Security Engineer (Remote)",
+      "company": "Joblet-AI",
+      "location": "United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4490206672/",
+      "reason": "experience: None yrs, Associate"
     },
     {
       "title": "Junior Research Scientist in the Division of Engineering (Computer Engineering) - Dr. Jiahao Yu",
@@ -101,10 +80,38 @@
       "reason": "title not security/junior"
     },
     {
-      "title": "System & Network Administrator",
-      "company": "Artan Holding",
-      "location": "Doha, Doha, Qatar",
-      "url": "https://www.linkedin.com/jobs/view/4489867721/",
+      "title": "Head of Product - Cyber Intelligence",
+      "company": "Group-IB",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4474715322/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Security Operations Center Analyst",
+      "company": "HyROI Solutions- An ISO-certified company",
+      "location": "Doha, Qatar",
+      "url": "https://www.linkedin.com/jobs/view/4490211737/",
+      "reason": "experience: 6 yrs, Mid-Senior level"
+    },
+    {
+      "title": "Consultant - Cloud Security",
+      "company": "malomatia",
+      "location": "Doha, Qatar",
+      "url": "https://www.linkedin.com/jobs/view/4491240075/",
+      "reason": "experience: 3 yrs, Not Applicable"
+    },
+    {
+      "title": "Senior Cloud Security Engineer",
+      "company": "malomatia",
+      "location": "Doha, Qatar",
+      "url": "https://www.linkedin.com/jobs/view/4491222884/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Key Factor Consultant",
+      "company": "Nair Systems LLC",
+      "location": "Doha, Qatar",
+      "url": "https://www.linkedin.com/jobs/view/4490232138/",
       "reason": "title not security/junior"
     },
     {
@@ -115,17 +122,31 @@
       "reason": "title not security/junior"
     },
     {
-      "title": "Director of Information Security (Saudi Only)",
-      "company": "Lucidya | لوسيديا",
-      "location": "Riyadh, Riyadh, Saudi Arabia",
-      "url": "https://www.linkedin.com/jobs/view/4491066928/",
+      "title": "Systems Engineer",
+      "company": "University of Doha for Science & Technology",
+      "location": "Doha, Qatar",
+      "url": "https://www.linkedin.com/jobs/view/4480038213/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Encryption Engineer",
-      "company": "Aman Solutions For Cybersecurity",
-      "location": "Saudi Arabia",
-      "url": "https://www.linkedin.com/jobs/view/4489331791/",
+      "title": "Senior PKI Engineer – Keyfactor",
+      "company": "Nair Systems LLC",
+      "location": "Doha, Qatar",
+      "url": "https://www.linkedin.com/jobs/view/4490221879/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Lead Systems Engineer",
+      "company": "University of Doha for Science & Technology",
+      "location": "Doha, Qatar",
+      "url": "https://www.linkedin.com/jobs/view/4480021894/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Senior Officer, Delivery",
+      "company": "Saudi Xerox",
+      "location": "Riyadh, Saudi Arabia",
+      "url": "https://www.linkedin.com/jobs/view/4489392321/",
       "reason": "title not security/junior"
     },
     {
@@ -143,32 +164,53 @@
       "reason": "title not security/junior"
     },
     {
-      "title": "IT Manager (Saudi Only)",
-      "company": "Lucidya | لوسيديا",
-      "location": "Riyadh, Riyadh, Saudi Arabia",
-      "url": "https://www.linkedin.com/jobs/view/4491080306/",
+      "title": "Microsoft Azure Administrator",
+      "company": "Albawani | البواني",
+      "location": "Riyadh, Saudi Arabia",
+      "url": "https://www.linkedin.com/jobs/view/4489385003/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "IT Systems Specialist",
+      "company": "NEOM Green Hydrogen Company",
+      "location": "Oxagon, Tabuk, Saudi Arabia",
+      "url": "https://www.linkedin.com/jobs/view/4489394421/",
       "reason": "title not security/junior"
     },
     {
       "title": "Solutions Engineer",
-      "company": "Fortra",
+      "company": "PreSales Collective",
       "location": "Saudi Arabia",
-      "url": "https://www.linkedin.com/jobs/view/4473805291/",
+      "url": "https://www.linkedin.com/jobs/view/4489383539/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Forward Deployed Engineer, Infrastructure Specialist (Middle East)",
-      "company": "Cohere",
-      "location": "Riyadh, Riyadh, Saudi Arabia",
-      "url": "https://www.linkedin.com/jobs/view/4464517198/",
+      "title": "Cloud and Infrastructure Automation Engineer (OCI)",
+      "company": "Datalake Saudi Arabia",
+      "location": "Makkah, Saudi Arabia",
+      "url": "https://www.linkedin.com/jobs/view/4489379202/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Audit Manager, Technology & Cyber Security",
-      "company": "Kuwait Finance House",
-      "location": "Manama, Capital Governorate, Bahrain",
-      "url": "https://www.linkedin.com/jobs/view/4489345125/",
+      "title": "Data Protection Officer",
+      "company": "GULF GENERAL COOPERATIVE INSURANCE CO.",
+      "location": "Jeddah, Makkah, Saudi Arabia",
+      "url": "https://www.linkedin.com/jobs/view/4489390295/",
       "reason": "title not security/junior"
+    },
+    {
+      "title": "OpenShift Senior Engineer",
+      "company": "Norconsult Telematics",
+      "location": "Riyadh, Saudi Arabia",
+      "url": "https://www.linkedin.com/jobs/view/4491235194/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "AI Penetration Testing Specialist",
+      "company": "International Turnkey Systems - ITS",
+      "location": "Kuwait City, Al Asimah, Kuwait",
+      "url": "https://www.linkedin.com/jobs/view/4489389471/",
+      "reason": "experience: None yrs, Mid-Senior level"
     }
   ]
 }
