@@ -1,27 +1,20 @@
 {
-  "generated_at": "2026-11-15T14:20:48.883394+00:00",
-  "cards": 38,
+  "generated_at": "2026-11-16T03:14:19.259158+00:00",
+  "cards": 34,
   "rejected": [
     {
       "title": "Network Security Engineer",
       "company": "Secure Network Solutions India Private Limited",
       "location": "Kochi, Kerala, India",
-      "url": "https://www.linkedin.com/jobs/view/4491212507/",
+      "url": "https://www.linkedin.com/jobs/view/4491262230/",
       "reason": "experience: None yrs, Not Applicable"
     },
     {
-      "title": "Senior Security Engineer (Application &Infrastructure Security)",
-      "company": "AZ eWallet",
+      "title": "Security Analyst",
+      "company": "Tata Consultancy Services",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4488526123/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Senior Engineer, Product Security Testing",
-      "company": "News Corp",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4465835328/",
-      "reason": "title not security/junior"
+      "url": "https://www.linkedin.com/jobs/view/4490250105/",
+      "reason": "experience: None yrs, Associate"
     },
     {
       "title": "Sr. Product Security Engineer",
@@ -31,17 +24,52 @@
       "reason": "title not security/junior"
     },
     {
-      "title": "Information Security Engineer",
-      "company": "MoonPay",
+      "title": "CYBER SECURITY ANALYST L4",
+      "company": "Wipro",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4466099958/",
+      "url": "https://www.linkedin.com/jobs/view/4491278267/",
       "reason": "experience: None yrs, Not Applicable"
     },
     {
-      "title": "Senior Security Engineer",
-      "company": "LiteLLM",
-      "location": "United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4489354424/",
+      "title": "Principal Security Engineer",
+      "company": "Cashfree",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4490249821/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Staff Security Engineer, AI Security",
+      "company": "PayPal",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4466057769/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Senior Platform Security Engineer",
+      "company": "Skyhigh Security",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4489374377/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Delinea - Senior Associate",
+      "company": "PwC Acceleration Center India",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4454105998/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Platform Data Specialist Lead",
+      "company": "ZeroFox",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4203142305/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Akamai Engineer",
+      "company": "Virtusa",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4489394686/",
       "reason": "title not security/junior"
     },
     {
@@ -52,31 +80,17 @@
       "reason": "title not security/junior"
     },
     {
-      "title": "Senior SOC Engineer- SIEM (UAEN)",
-      "company": "CPX",
-      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4473107748/",
+      "title": "Solutions Consultant",
+      "company": "Palo Alto Networks",
+      "location": "Ajman, Ajman Emirate, United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4408869560/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Application Security Engineer (Remote)",
-      "company": "Joblet-AI",
-      "location": "United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4490206672/",
-      "reason": "experience: None yrs, Associate"
-    },
-    {
-      "title": "Junior Research Scientist in the Division of Engineering (Computer Engineering) - Dr. Jiahao Yu",
-      "company": "New York University Abu Dhabi",
-      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4473838962/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Senior Linux & Virtualization Administrator",
-      "company": "VaporVM",
+      "title": "Systems Administrator / IT Executive / Technical Support",
+      "company": "Blanket Access Health Initiative (BAHI)",
       "location": "Dubai, United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4491086446/",
+      "url": "https://www.linkedin.com/jobs/view/4489701720/",
       "reason": "title not security/junior"
     },
     {
@@ -85,20 +99,6 @@
       "location": "Dubai, Dubai, United Arab Emirates",
       "url": "https://www.linkedin.com/jobs/view/4474715322/",
       "reason": "title not security/junior"
-    },
-    {
-      "title": "Security Operations Center Analyst",
-      "company": "HyROI Solutions- An ISO-certified company",
-      "location": "Doha, Qatar",
-      "url": "https://www.linkedin.com/jobs/view/4490211737/",
-      "reason": "experience: 6 yrs, Mid-Senior level"
-    },
-    {
-      "title": "Consultant - Cloud Security",
-      "company": "malomatia",
-      "location": "Doha, Qatar",
-      "url": "https://www.linkedin.com/jobs/view/4491240075/",
-      "reason": "experience: 3 yrs, Not Applicable"
     },
     {
       "title": "Senior Cloud Security Engineer",
@@ -112,13 +112,6 @@
       "company": "Nair Systems LLC",
       "location": "Doha, Qatar",
       "url": "https://www.linkedin.com/jobs/view/4490232138/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Solutions Engineer",
-      "company": "TrendAI",
-      "location": "Doha, Doha, Qatar",
-      "url": "https://www.linkedin.com/jobs/view/4465806387/",
       "reason": "title not security/junior"
     },
     {
@@ -150,17 +143,10 @@
       "reason": "title not security/junior"
     },
     {
-      "title": "Consultant II",
-      "company": "F5",
+      "title": "Senior Engineer-Application Engineering",
+      "company": "Elm Company",
       "location": "Riyadh, Riyadh, Saudi Arabia",
-      "url": "https://www.linkedin.com/jobs/view/4456354302/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Information Technology Auditor",
-      "company": "Circlys App",
-      "location": "Riyadh, Saudi Arabia",
-      "url": "https://www.linkedin.com/jobs/view/4491077820/",
+      "url": "https://www.linkedin.com/jobs/view/4490249039/",
       "reason": "title not security/junior"
     },
     {
@@ -171,17 +157,17 @@
       "reason": "title not security/junior"
     },
     {
+      "title": "IT Infrastructure Administrator",
+      "company": "Fakeeh Care Group",
+      "location": "Jeddah, Makkah, Saudi Arabia",
+      "url": "https://www.linkedin.com/jobs/view/4466346373/",
+      "reason": "title not security/junior"
+    },
+    {
       "title": "IT Systems Specialist",
       "company": "NEOM Green Hydrogen Company",
       "location": "Oxagon, Tabuk, Saudi Arabia",
       "url": "https://www.linkedin.com/jobs/view/4489394421/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Solutions Engineer",
-      "company": "PreSales Collective",
-      "location": "Saudi Arabia",
-      "url": "https://www.linkedin.com/jobs/view/4489383539/",
       "reason": "title not security/junior"
     },
     {
@@ -206,11 +192,11 @@
       "reason": "title not security/junior"
     },
     {
-      "title": "AI Penetration Testing Specialist",
-      "company": "International Turnkey Systems - ITS",
-      "location": "Kuwait City, Al Asimah, Kuwait",
-      "url": "https://www.linkedin.com/jobs/view/4489389471/",
-      "reason": "experience: None yrs, Mid-Senior level"
+      "title": "Systems Engineer (Oman)",
+      "company": "Palo Alto Networks",
+      "location": "Oman",
+      "url": "https://www.linkedin.com/jobs/view/4435988740/",
+      "reason": "title not security/junior"
     }
   ]
 }

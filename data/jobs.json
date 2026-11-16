@@ -1,19 +1,5 @@
 {
-  "generated_at": "2026-11-15T14:20:48.883394+00:00",
-  "count": 1,
-  "jobs": [
-    {
-      "id": "4491255081",
-      "title": "Implementation Engineer - OT Cybersecurity",
-      "company": "Smart System",
-      "location": "Jeddah, Makkah, Saudi Arabia",
-      "posted": "1 hour ago",
-      "posted_date": "2026-11-15",
-      "url": "https://www.linkedin.com/jobs/view/4491255081/",
-      "hours_ago": 1,
-      "applicants": "30 applicants",
-      "seniority": "Entry level",
-      "description": "Role Summary The OT Cybersecurity Engineer (Implementation) turns the assessment findings and the approved design into working controls on live industrial systems. This person deploys, configures and tests segmentation, secure remote access, monitoring and hardening across control networks, without disturbing operations. The role is hands-on and site-based, and it ends with systems that are tested, documented and handed over to the client's operations team. Key Responsibilities Segmentation and firewalls: Deploy and configure industrial firewalls, switches and VLANs to enforce the approved zones, conduits and IT/OT DMZ, with rule sets reviewed against operational needs. Secure remote and vendor access: Implement controlled access paths such as jump servers, MFA, session recording and time-limited vendor accounts, and retire unmanaged connections. Monitoring: Install and tune passive OT monitoring sensors on SPAN or TAP ports, and integrate logs and alerts with the client's SIEM or SOC. Hardening and patching: Harden HMIs, engineering workstations, servers and network devices to an agreed baseline, and apply patches and configuration fixes in vendor-approved, change-controlled windows. Endpoint and recovery controls: Deploy application whitelisting or endpoint protection, and set up backup and recovery for control system assets. Testing and commissioning: Prepare and run FAT and SAT, confirm that each control does not affect process behavior, and support commissioning. Documentation: Produce as-built diagrams, configuration records, procedures and test reports. Handover and training: Train the client's operations and engineering staff to run and maintain what was installed. Required Experience and Qualifications 5+ years in network or security engineering, including at least 2 to 3 years implementing security controls in industrial or OT environments. Hands-on delivery of OT security projects through FAT, SAT and commissioning. Comes from network or security engineering into OT, or from control and automation engineering into security. Has worked in live plants (power, water, oil and gas, petrochemicals, manufacturing) under permits, safety rules and strict change control. Bachelor's degree in Engineering, Computer Science, IT or a related field. Technical Skills and Tools Network security: Industrial and enterprise firewalls (Fortinet, Palo Alto, Cisco), VLANs, routing, VPN, network access control, Purdue-based segmentation. Remote access: Jump servers, MFA, privileged access and session recording tools. OT monitoring: Nozomi, Claroty, Dragos, Tenable OT, Forescout or Armis; SPAN and TAP deployment; SIEM log integration. Hardening and endpoint: Windows Server and Active Directory hardening, CIS baselines, application whitelisting, endpoint protection, virtualization (VMware, Hyper-V), backup tools. Industrial systems: PLC, DCS, SCADA and HMI platforms (Siemens, Rockwell, Schneider, Honeywell, ABB, Emerson) and protocols such as Modbus, DNP3, OPC "
-    }
-  ]
+  "generated_at": "2026-11-16T03:14:19.259158+00:00",
+  "count": 0,
+  "jobs": []
 }
