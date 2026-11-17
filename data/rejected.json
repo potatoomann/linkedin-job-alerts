@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-17T05:15:40.127254+00:00",
-  "cards": 55,
+  "generated_at": "2026-11-17T16:30:05.750641+00:00",
+  "cards": 45,
   "rejected": [
     {
-      "title": "TC-CS-IAM-CyberArk- Senior",
-      "company": "EY",
+      "title": "Senior SOC Engineer / Incident Response Analyst",
+      "company": "WORKSENT",
       "location": "Kochi, Kerala, India",
-      "url": "https://www.linkedin.com/jobs/view/4481436534/",
+      "url": "https://www.linkedin.com/jobs/view/4491125023/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Application Vulnerability and Compliance SME",
+      "title": "TC-CS-Cyber Architecture- OT and Engineering-OT Security -Senior",
       "company": "EY",
       "location": "Kochi, Kerala, India",
-      "url": "https://www.linkedin.com/jobs/view/4490278916/",
+      "url": "https://www.linkedin.com/jobs/view/4491134862/",
       "reason": "title not security/junior"
     },
     {
@@ -31,46 +31,46 @@
       "reason": "title not security/junior"
     },
     {
-      "title": "TC - CS - IAM - Saviynt - Staff",
-      "company": "EY",
-      "location": "Kochi, Kerala, India",
-      "url": "https://www.linkedin.com/jobs/view/4482940001/",
+      "title": "Cyber Security Manager",
+      "company": "HireFlex",
+      "location": "Kerala, India",
+      "url": "https://www.linkedin.com/jobs/view/4491151024/",
       "reason": "title not security/junior"
     },
     {
-      "title": "TC-CS-Cyber Architecture- OT and Engineering-AI Architect -Senior Manager",
-      "company": "EY",
+      "title": "Information Security Manager",
+      "company": "Esse India | Canada immigration consultants in delhi | visa consultant delhi",
       "location": "Kochi, Kerala, India",
-      "url": "https://www.linkedin.com/jobs/view/4411581563/",
+      "url": "https://www.linkedin.com/jobs/view/4491107269/",
       "reason": "title not security/junior"
     },
     {
-      "title": "RC-DR-SAP Controls Review-Senior",
+      "title": "TC-CS-AEET-Manager-ZT",
       "company": "EY",
       "location": "Kochi, Kerala, India",
-      "url": "https://www.linkedin.com/jobs/view/4481424994/",
+      "url": "https://www.linkedin.com/jobs/view/4491138711/",
       "reason": "title not security/junior"
     },
     {
-      "title": "GMS-Staff-Entra ID",
+      "title": "TC-CS-SRCR-Risk and Compliance-SM",
       "company": "EY",
       "location": "Kochi, Kerala, India",
-      "url": "https://www.linkedin.com/jobs/view/4474263902/",
+      "url": "https://www.linkedin.com/jobs/view/4491139760/",
       "reason": "title not security/junior"
     },
     {
-      "title": "GMS-Staff-IDAM-SailPoint IIQ",
+      "title": "CMS-Senior-Entra ID And MFA Controls",
       "company": "EY",
       "location": "Kochi, Kerala, India",
-      "url": "https://www.linkedin.com/jobs/view/4482985591/",
+      "url": "https://www.linkedin.com/jobs/view/4491151265/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Senior Associate - Cyber Security - VAPT",
-      "company": "BDO India",
-      "location": "Bangalore Urban, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4491512319/",
-      "reason": "title not security/junior"
+      "title": "Web Application Penetration Testing",
+      "company": "Teamware Solutions",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4491106934/",
+      "reason": "applicants: 69 applicants"
     },
     {
       "title": "Senior Product Security Engineer",
@@ -80,25 +80,60 @@
       "reason": "title not security/junior"
     },
     {
-      "title": "CDTR - TVM - Cyber - Senior Associtae",
-      "company": "PwC Acceleration Center India",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4489710784/",
+      "title": "Sr Security Engineer (Vulnerability Management).",
+      "company": "ZEISS India",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4491182034/",
       "reason": "title not security/junior"
     },
     {
-      "title": "SOC Associates Red Teaming",
-      "company": "Mphasis",
+      "title": "Cybersecurity Consultant – Network Penetration Testing & Red Teaming",
+      "company": "Teamware Solutions",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4490924022/",
-      "reason": "experience: None yrs, Executive"
+      "url": "https://www.linkedin.com/jobs/view/4491124218/",
+      "reason": "experience: 3 yrs, Associate"
     },
     {
-      "title": "Penetration Tester",
-      "company": "ITSEC",
-      "location": "Dubai, Dubai, United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4489760212/",
-      "reason": "experience: 5 yrs, Entry level"
+      "title": "Senior Product Security Engineer",
+      "company": "Truemeds",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4490405394/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Security Consultant-Application Security",
+      "company": "IBM",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4490433743/",
+      "reason": "experience: None yrs, Mid-Senior level"
+    },
+    {
+      "title": "Application Security Analyst",
+      "company": "ZEISS India",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4491180035/",
+      "reason": "applicants: 51 applicants"
+    },
+    {
+      "title": "Product Security Engineer",
+      "company": "Infoblox",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4491146547/",
+      "reason": "experience: 5 yrs, Not Applicable"
+    },
+    {
+      "title": "Senior Cyber Security Analyst - (UAE National)",
+      "company": "Qantra",
+      "location": "Dubai, United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4491149976/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Lead Product Security Engineer",
+      "company": "Cygnify",
+      "location": "Dubai, United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4490408790/",
+      "reason": "title not security/junior"
     },
     {
       "title": "Senior Embedded Systems Security Engineer",
@@ -108,11 +143,11 @@
       "reason": "title not security/junior"
     },
     {
-      "title": "AI Cybersecurity Threat Intelligence Specialist (m/f/d)",
-      "company": "Halian | Managed Services, Recruitment Agency & Contract Staffing",
-      "location": "Abu Dhabi Emirate, United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4490936730/",
-      "reason": "experience: 7 yrs, Not Applicable"
+      "title": "Expert Engineer/Security Operation Centre",
+      "company": "etisalat UAE",
+      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4490426579/",
+      "reason": "experience: 6 yrs, Not Applicable"
     },
     {
       "title": "Senior SOC Analysts",
@@ -122,52 +157,45 @@
       "reason": "title not security/junior"
     },
     {
-      "title": "Senior Security Engineer (DevSecOps)",
-      "company": "ai71",
+      "title": "Sr. Engineer/Application & End Point Security",
+      "company": "etisalat UAE",
       "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4489737662/",
+      "url": "https://www.linkedin.com/jobs/view/4490438160/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Security Operations Engineer",
-      "company": "n Human Resources & Management Systems [ nHRMS ]",
+      "title": "Senior Security Engineer DevSecOps",
+      "company": "TALENTMATE",
+      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4491556928/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Tech Consulting - Cybersecurity - GRC - United Arab Emirates",
+      "company": "EY",
       "location": "Dubai, Dubai, United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4490991772/",
-      "reason": "experience: None yrs, Mid-Senior level"
+      "url": "https://www.linkedin.com/jobs/view/4491152163/",
+      "reason": "applicants: 79 applicants"
     },
     {
-      "title": "Manager - Observability & Access Management (m/f/d)",
-      "company": "Halian | Managed Services, Recruitment Agency & Contract Staffing",
-      "location": "Abu Dhabi Emirate, United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4490950192/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Senior Application Security Engineer",
+      "title": "Cybersecurity Engineer",
       "company": "malomatia",
       "location": "Doha, Qatar",
-      "url": "https://www.linkedin.com/jobs/view/4489725613/",
-      "reason": "title not security/junior"
+      "url": "https://www.linkedin.com/jobs/view/4491575863/",
+      "reason": "experience: 8 yrs, Not Applicable"
     },
     {
-      "title": "SOC Analyst (L1/L2)- Arabic",
-      "company": "Arab Solutions",
+      "title": "Information Security Officer",
+      "company": "malomatia",
       "location": "Doha, Qatar",
-      "url": "https://www.linkedin.com/jobs/view/4490282605/",
-      "reason": "title not security/junior"
+      "url": "https://www.linkedin.com/jobs/view/4491585419/",
+      "reason": "experience: None yrs, Not Applicable"
     },
     {
-      "title": "Tech Graduate - Tech Risk & Control Analyst",
-      "company": "UBS",
-      "location": "Doha, Doha, Qatar",
-      "url": "https://www.linkedin.com/jobs/view/4489742589/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Presales Consultant",
-      "company": "Acme Services",
+      "title": "Lecturer/Senior Lecturer – Computer Science (Cybersecurity)",
+      "company": "Barzan University College (BUC)",
       "location": "Doha, Qatar",
-      "url": "https://www.linkedin.com/jobs/view/4491297848/",
+      "url": "https://www.linkedin.com/jobs/view/4490460014/",
       "reason": "title not security/junior"
     },
     {
@@ -178,31 +206,10 @@
       "reason": "title not security/junior"
     },
     {
-      "title": "Presales Engineer – Splunk",
-      "company": "Acme Services",
-      "location": "Doha, Qatar",
-      "url": "https://www.linkedin.com/jobs/view/4489738584/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Azure Architect",
-      "company": "Arab Solutions",
-      "location": "Doha, Qatar",
-      "url": "https://www.linkedin.com/jobs/view/4490614476/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Senior Engineer - Cloud Security",
+      "title": "IT Project Manager",
       "company": "malomatia",
       "location": "Doha, Qatar",
-      "url": "https://www.linkedin.com/jobs/view/4489719558/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Security Delivery Senior Analyst Soc L2",
-      "company": "Accenture Middle East",
-      "location": "Riyadh, Riyadh, Saudi Arabia",
-      "url": "https://www.linkedin.com/jobs/view/4490254746/",
+      "url": "https://www.linkedin.com/jobs/view/4491142365/",
       "reason": "title not security/junior"
     },
     {
@@ -213,11 +220,39 @@
       "reason": "title not security/junior"
     },
     {
-      "title": "Information Security Manager",
-      "company": "Maximus KSA | ماكسيموس السعودية",
+      "title": "SOC Analyst L3",
+      "company": "Zoho",
       "location": "Riyadh, Saudi Arabia",
-      "url": "https://www.linkedin.com/jobs/view/4487721797/",
+      "url": "https://www.linkedin.com/jobs/view/4491156530/",
       "reason": "title not security/junior"
+    },
+    {
+      "title": "Cybersecurity Exercise Specialist",
+      "company": "Socium - Teams Done Differently",
+      "location": "Riyadh, Saudi Arabia",
+      "url": "https://www.linkedin.com/jobs/view/4490446297/",
+      "reason": "experience: None yrs, Mid-Senior level"
+    },
+    {
+      "title": "Manager - Data Security Analysis",
+      "company": "Bupa Arabia",
+      "location": "Jiddah, Makkah, Saudi Arabia",
+      "url": "https://www.linkedin.com/jobs/view/4491152912/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Enterprise Engineer",
+      "company": "FNRCO",
+      "location": "Jeddah, Makkah, Saudi Arabia",
+      "url": "https://www.linkedin.com/jobs/view/4490188789/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Cybersecurity Risk Specialist (SOURC02411/1)",
+      "company": "2P Perfect Presentation",
+      "location": "Riyadh, Saudi Arabia",
+      "url": "https://www.linkedin.com/jobs/view/4490433002/",
+      "reason": "applicants: 93 applicants"
     },
     {
       "title": "Information Security Manager",
@@ -227,25 +262,25 @@
       "reason": "title not security/junior"
     },
     {
-      "title": "Microsoft Senior Cloud",
-      "company": "EBLA Computer Consultancy",
-      "location": "Muscat, Masqaţ, Oman",
-      "url": "https://www.linkedin.com/jobs/view/4489718892/",
+      "title": "Consultant III",
+      "company": "F5",
+      "location": "Riyadh, Riyadh, Saudi Arabia",
+      "url": "https://www.linkedin.com/jobs/view/4253156963/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Cloud Engineer",
-      "company": "DT FIN-CON",
-      "location": "Oman",
-      "url": "https://www.linkedin.com/jobs/view/4491108171/",
+      "title": "OT Cybersecurity Solutions Manager | alfanar Electric",
+      "company": "alfanar",
+      "location": "Riyadh, Riyadh, Saudi Arabia",
+      "url": "https://www.linkedin.com/jobs/view/4491139793/",
       "reason": "title not security/junior"
     },
     {
-      "title": "DevSecOps Engineer",
-      "company": "Taly",
-      "location": "Kuwait City, Al Asimah, Kuwait",
-      "url": "https://www.linkedin.com/jobs/view/4489734882/",
-      "reason": "title not security/junior"
+      "title": "Cybersecurity Compliance Specialist (SOURC02411)",
+      "company": "2P Perfect Presentation",
+      "location": "Riyadh, Saudi Arabia",
+      "url": "https://www.linkedin.com/jobs/view/4490421385/",
+      "reason": "applicants: 90 applicants"
     }
   ]
 }
