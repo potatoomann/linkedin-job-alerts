@@ -1,5 +1,45 @@
 {
-  "generated_at": "2026-11-18T15:59:29.937610+00:00",
-  "count": 0,
-  "jobs": []
+  "generated_at": "2026-11-19T04:34:20.047713+00:00",
+  "count": 3,
+  "jobs": [
+    {
+      "id": "4492114669",
+      "title": "SOC Analyst",
+      "company": "Nair Systems LLC",
+      "location": "Doha, Qatar",
+      "posted": "47 minutes ago",
+      "posted_date": "2026-11-19",
+      "url": "https://www.linkedin.com/jobs/view/4492114669/",
+      "hours_ago": 0,
+      "applicants": "Be among the first 25 applicants",
+      "seniority": "Entry level",
+      "description": "Nair Systems is currently looking SOC Analyst for our Qatar operations. Should you be interested in this opportunity, please send your latest resume in MS Word format at the earliest at nishanthini.suda@nairsystems.com"
+    },
+    {
+      "id": "4492257527",
+      "title": "Telecommunications Engineer / Cybersecurity Engineer",
+      "company": "The Dealmaker",
+      "location": "Masqaţ, Oman",
+      "posted": "37 minutes ago",
+      "posted_date": "2026-11-19",
+      "url": "https://www.linkedin.com/jobs/view/4492257527/",
+      "hours_ago": 0,
+      "applicants": "Be among the first 25 applicants",
+      "seniority": "Entry level",
+      "description": "Role Description Telecommunications Engineer Responsible for designing, implementing, maintaining, and optimizing telecommunications networks and infrastructure to ensure reliable connectivity and efficient communication services. Configure network equipment, monitor system performance, troubleshoot connectivity issues, and support the deployment of wired and wireless communication solutions. Conduct technical assessments, prepare engineering documentation, and collaborate with IT, network operations, and project teams to improve network reliability, capacity, and performance while ensuring compliance with industry standards. Cybersecurity Engineer Responsible for designing, implementing, and maintaining security systems to protect organizational networks, infrastructure, applications, and sensitive information from cyber threats. Monitor security events, identify vulnerabilities, conduct risk assessments, and implement appropriate security controls and preventive measures. Support security incident investigations, vulnerability management, access control, and security testing. Collaborate with IT and infrastructure teams to strengthen cybersecurity policies, maintain regulatory compliance, and improve the organization's overall security posture. Qualifications Bachelor's degree in Telecommunications Engineering, Cybersecurity, Computer Science, Information Technology, or a related discipline. Strong understanding of telecommunications infrastructure, network architecture, and cybersecurity principles. Knowledge of TCP/IP, routing, switching, firewalls, VPNs, and network security protocols. Familiarity with security monitoring, vulnerability assessment, and incident response procedures. Proficiency in relevant networking, security, and system administration tools. Strong analytical, technical, communication, and problem-solving skills."
+    },
+    {
+      "id": "4491833838",
+      "title": "Offensive Security Engineer",
+      "company": "ISECURION",
+      "location": "Bengaluru, Karnataka, India",
+      "posted": "11 hours ago",
+      "posted_date": "2026-11-18",
+      "url": "https://www.linkedin.com/jobs/view/4491833838/",
+      "hours_ago": 11,
+      "applicants": "44 applicants",
+      "seniority": "Entry level",
+      "description": "We're Hiring | Offensive Security Engineer (Red Team / Penetration Testing) Location: Bengaluru Experience: 2–3 Years Company Description ISECURION is a CERT-In empanelled and ISO 27001:2022 certified cybersecurity consulting company that helps organizations strengthen their security posture in a complex digital environment. The team focuses on practical, business-oriented security solutions that support compliance, risk reduction, and long-term cyber resilience. Services include Vulnerability Assessment & Penetration Testing (VAPT), compliance audits, cloud security, DFIR, risk assessments, and managed security services. ISECURION works closely with clients to identify security gaps, prioritize remediation, and align with industry best practices and regulatory standards. The company is driven by a passionate team committed to research, innovation, and delivering meaningful security outcomes. Responsibilities Conduct Web, API, Network, Cloud, and Active Directory Penetration Tests Execute Red Team and Adversary Emulation engagements Perform privilege escalation, lateral movement, and post-exploitation activities Assess Azure, AWS, and modern enterprise environments Build and improve offensive tooling, scripts, and automation Develop attack simulations aligned to the MITRE ATT&CK framework Collaborate with Product Engineering to convert real attack techniques into BAS content Deliver high-quality technical and executive reports Support Purple Team exercises and detection validation Qualifications Hands-on offensive security experience in enterprise environments Strong working knowledge of: Active Directory Windows & Linux environments Web & API security Network penetration testing Cloud security (Azure / AWS / GCP) Python and PowerShell (Go, Rust, or C# is an added advantage) Preferred Certifications Candidates holding one or more of the following certifications (or equivalent practical experience) are preferred: OSCP CRTO CPTS OSEP CRTE PNPT eCPPT OSWE Advantageous Experience Red Team operations EDR evasion Malware development C2 frameworks (Sliver, Havoc, Mythic, Cobalt Strike, etc.) Purple teaming MITRE ATT&CK framework application AI/LLM security Security research and open-source tooling contributions Published write-ups, CVEs, or conference talks How to Apply Interested candidates may submit their résumé on careers@isecurion.com along with supporting work samples such as GitHub profiles, blogs, portfolios, research publications, CVEs, or technical write-ups"
+    }
+  ]
 }
