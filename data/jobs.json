@@ -1,5 +1,45 @@
 {
-  "generated_at": "2026-11-21T04:18:57.524716+00:00",
-  "count": 0,
-  "jobs": []
+  "generated_at": "2026-11-21T14:57:35.613395+00:00",
+  "count": 3,
+  "jobs": [
+    {
+      "id": "4492305317",
+      "title": "Product Security Engineer",
+      "company": "ZySec AI",
+      "location": "Abu Dhabi Emirate, United Arab Emirates",
+      "posted": "5 hours ago",
+      "posted_date": "2026-11-21",
+      "url": "https://www.linkedin.com/jobs/view/4492305317/",
+      "hours_ago": 5,
+      "applicants": "Be among the first 25 applicants",
+      "seniority": "Entry level",
+      "description": "Role type: Individual contributor Reports to: Head of Security and dotted line to Head of Engineering Location: Abu Dhabi Language to speak: Ukraine/ Russian Role Summary: The Product Security Engineer works hand in hand with the engineering team to make sure the blockchain products the organization builds are secure by design. You sit inside the product development cycle rather than reviewing from outside: you join planning, design discussions, and code reviews, pair with engineers on fixes, and own security gates from architecture through release. You work as a hands-on individual contributor with full ownership of product security. Key Responsibilities • Work day to day with engineering: join sprint planning, design reviews and release readiness, and give security guidance while features are being built, not after. • Own the secure SDLC: security requirements, design reviews, code review standards and release security gates. • Lead threat modelling with engineers for new products and major changes, covering protocol, smart contract, wallet, bridge, API and cloud layers. • Review code and pull requests for security issues, and pair with developers to fix findings and share the reasoning. • Coordinate smart contract and protocol security audits: scoping, auditor selection, finding triage, fix verification and public report readiness. • Integrate security tooling into CI/CD, including SAST, SCA, secrets scanning, container and infrastructure-as-code scanning, tuned so developers trust the results. • Review cloud and key-management architecture with IT Operations and the Blockchain Security Engineer, including signing and custody flows. • Run a security champions program with a named champion in each engineering team. • Own product vulnerability intake: bug bounty triage, disclosure handling and remediation tracking against agreed timelines. • Maintain secure coding guidance and reusable patterns for common risks in blockchain development. • Define with the Cyber Defense what telemetry new products must emit so the MSSP can detect abuse. • Report on product risk, open findings and audit status to the Head of security/ Engineering Key Relationships • Engineering leads and developers (daily, embedded) • Blockchain Security Engineer and Head of Offensive Security (threat models, testing, audits) • Cyber Defense (detection requirements for new products) • GRC (secure development evidence for audits) Required Qualifications • 6+ years in application security, product security or security engineering, with 2+ years on blockchain or financial technology products. • Proven record of working inside engineering teams, with developers who see you as a partner rather than a gatekeeper. • Strong threat modelling experience (STRIDE or similar) and secure design review skills. • Solid grasp of smart contract security (reentrancy, access control, oracle and upgradeability risks) and the audit process. • Hands-on CI/CD security experience with modern pipelines and"
+    },
+    {
+      "id": "4492874870",
+      "title": "Cyber Security Trainer - Tamil",
+      "company": "Offenso Hackers Academy",
+      "location": "Kochi, Kerala, India",
+      "posted": "6 hours ago",
+      "posted_date": "2026-11-21",
+      "url": "https://www.linkedin.com/jobs/view/4492874870/",
+      "hours_ago": 6,
+      "applicants": "Be among the first 25 applicants",
+      "seniority": "Entry level",
+      "description": "Company Description Offenso Hackers Academy is Kerala’s leading cybersecurity training institution, recognized by Kerala Startup Mission and accredited as a CompTIA partner. The academy focuses on hands-on, real-world cyber defense and offense, training learners through live labs, attack simulations, CTFs, and industry projects. With flagship programs such as OCSA, OCSP, and ADIS, Offenso helps beginners and professionals build job-ready skills in areas like ethical hacking, security analysis, and information security. Trusted by more than 5,000 learners and known for strong placement support, the academy offers internships and career guidance across multiple cybersecurity roles. Based in Kerala with worldwide training reach, Offenso is dedicated to building battle-tested cybersecurity professionals. Role Description The Cyber Security Trainer – Tamil will deliver instructor-led training in Tamil on core cybersecurity topics, including network security, application security, information security, and malware analysis, to learners at various skill levels. This full-time, on-site role in Kochi involves designing and updating course materials, creating lab exercises and real-world scenarios, and guiding learners through hands-on practice, CTFs, and project work. The trainer will assess learner performance, provide constructive feedback, and support exam preparation for Offenso’s certification programs. Responsibilities also include collaborating with the academic team to keep content aligned with current industry practices, participating in workshops and events, and contributing to continuous improvement of training quality and learner outcomes. Qualifications Strong foundational knowledge in Cybersecurity and Information Security, including core principles, threat landscapes, and security frameworks. Hands-on experience with Network Security, such as configuring and securing networks, monitoring traffic, and identifying network-based threats. Practical skills in Application Security, including secure coding concepts, common vulnerabilities, and web/mobile application protection techniques. Experience in Malware Analysis, including identifying, analyzing, and responding to malicious software in controlled environments. Proficiency in teaching or mentoring, with the ability to explain complex technical topics clearly in Tamil and English. Familiarity with ethical hacking tools, penetration testing methodologies, and lab-based training environments. Bachelor’s degree in Computer Science, Information Technology, Cybersecurity, or a related field; relevant certifications (e.g., CEH, CompTIA Security+, OSCP) are an advantage. Strong communication, presentation, and classroom management skills, with a learner-centric approach and commitment to practical, job-focused training. Ability to work collaboratively with academic and operations teams and stay current with emerging security trends and technologies."
+    },
+    {
+      "id": "4491958797",
+      "title": "Threat Intelligence Consultant-Threat Analysis Internship",
+      "company": "IBM",
+      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+      "posted": "15 hours ago",
+      "posted_date": "2026-11-20",
+      "url": "https://www.linkedin.com/jobs/view/4491958797/",
+      "hours_ago": 15,
+      "applicants": "41 applicants",
+      "seniority": "Internship",
+      "description": "Introduction A career in IBM Consulting is built on long-term client relationships and close collaboration worldwide. You'll work with leading companies across industries, helping them shape their hybrid cloud and AI journeys. With support from our strategic partners, robust IBM technology, and Red Hat, you'll have the tools to drive meaningful change and accelerate client impact. At IBM Consulting, curiosity fuels success. You'll be encouraged to challenge the norm, explore new ideas, and create innovative solutions that deliver real results. Our culture of growth and empathy focuses on your long-term career development while valuing your unique skills and experiences. Your Role And Responsibilities Support Security teams on Agentic SOC initiatives. Assist with threat intelligence analysis, security operations research, and documentation. Eligibility: UAE Nationals are prioritized for this internship. Required Technical And Professional Expertise Understanding of basic security domains; familiarity with threat intelligence concepts. Preferred Technical And Professional Experience Familiarity with Threat Analysis Tools: Exposure to tools used in threat analysis for evaluating collected data is beneficial. Knowledge of Cyber Threat Intelligence Frameworks: Basic understanding of existing cyber threat intelligence frameworks and programs can be advantageous. Understanding of Data Analysis Techniques: Familiarity with data analysis techniques used in threat intelligence can be helpful."
+    }
+  ]
 }
