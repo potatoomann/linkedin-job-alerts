@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-11-21T14:57:35.613395+00:00",
-  "cards": 30,
+  "generated_at": "2026-11-22T03:31:28.231622+00:00",
+  "cards": 28,
   "rejected": [
     {
       "title": "Cyber Security Manager",
       "company": "HireFlex",
       "location": "Thrissur, Kerala, India",
       "url": "https://www.linkedin.com/jobs/view/4493262617/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "GMS-Senior-SAP Security And SAP GRC AC",
-      "company": "EY",
-      "location": "Kochi, Kerala, India",
-      "url": "https://www.linkedin.com/jobs/view/4491947225/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "GRC-SAP-Security-Senior",
-      "company": "EY",
-      "location": "Kochi, Kerala, India",
-      "url": "https://www.linkedin.com/jobs/view/4475233354/",
       "reason": "title not security/junior"
     },
     {
@@ -31,10 +17,10 @@
       "reason": "title not security/junior"
     },
     {
-      "title": "Tech S and T-Cloud Data Protection Engineer-ISR-Senior-GDSF02",
+      "title": "Risk Analytics - AI Governance - Senior",
       "company": "EY",
       "location": "Kochi, Kerala, India",
-      "url": "https://www.linkedin.com/jobs/view/4483439228/",
+      "url": "https://www.linkedin.com/jobs/view/4474449266/",
       "reason": "title not security/junior"
     },
     {
@@ -45,24 +31,24 @@
       "reason": "title not security/junior"
     },
     {
-      "title": "Analyst Lead, Cybersecurity (SAST, DAST, Threat Modelling , SCA)",
-      "company": "FIS",
+      "title": "CYBER SECURITY ANALYST L3",
+      "company": "Wipro",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4485326854/",
+      "url": "https://www.linkedin.com/jobs/view/4493299763/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Senior Secuirty Engineer",
-      "company": "Eightfold AI",
+      "title": "Eng II, Cybersecurity",
+      "company": "Baxter International Inc.",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4493233669/",
-      "reason": "title not security/junior"
+      "url": "https://www.linkedin.com/jobs/view/4492303949/",
+      "reason": "experience: 3 yrs, Not Applicable"
     },
     {
-      "title": "CD&E - Cyber Security- Incident Response - Senior Associate",
-      "company": "PwC Acceleration Center India",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4483450084/",
+      "title": "Vulnerability Management Professional",
+      "company": "Marvell Technology",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4475608028/",
       "reason": "title not security/junior"
     },
     {
@@ -73,27 +59,6 @@
       "reason": "title not security/junior"
     },
     {
-      "title": "Senior Security Engineer",
-      "company": "Oracle",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4491975307/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Senior Red Team Engineer",
-      "company": "SolarWinds",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4459659441/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Principal Security Engineer",
-      "company": "Oracle",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4491947506/",
-      "reason": "title not security/junior"
-    },
-    {
       "title": "Staff Cyber Security Engineer",
       "company": "GE HealthCare",
       "location": "Bengaluru, Karnataka, India",
@@ -101,25 +66,46 @@
       "reason": "title not security/junior"
     },
     {
-      "title": "Senior Incident Responder",
-      "company": "Moro Hub",
-      "location": "Dubai, United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4492970069/",
+      "title": "Associate Analyst, IT",
+      "company": "Baxter International Inc.",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4492307760/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Senior Hardware Security Engineer",
-      "company": "Set2Recruit",
-      "location": "Dubai, United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4491942633/",
+      "title": "Senior Cybersecurity Incident Responder",
+      "company": "Baker Tilly US",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4432291080/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Head of Infrastructure and Cybersecurity",
-      "company": "DT One",
-      "location": "Dubai, Dubai, United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4492956052/",
+      "title": "Intrusion Analyst III",
+      "company": "Walmart Global Tech India",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4475240828/",
       "reason": "title not security/junior"
+    },
+    {
+      "title": "Staff Product Security Engineer",
+      "company": "Gainsight",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4458005937/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Head of Cyber Defense | UAE",
+      "company": "ZySec AI",
+      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4492301065/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Security Operations Engineer",
+      "company": "Astek Middle East",
+      "location": "Abu Dhabi Emirate, United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4492320545/",
+      "reason": "experience: 3 yrs, Mid-Senior level"
     },
     {
       "title": "IT Audit Specialist",
@@ -129,24 +115,45 @@
       "reason": "title not security/junior"
     },
     {
-      "title": "Applied AI Engineer (InfoSec)",
-      "company": "Revolut",
+      "title": "Application Security Engineer (Remote)",
+      "company": "Joblet-AI",
       "location": "United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4492802296/",
-      "reason": "applicants: 92 applicants"
+      "url": "https://www.linkedin.com/jobs/view/4493117516/",
+      "reason": "experience: None yrs, Mid-Senior level"
     },
     {
-      "title": "GRC Manager",
-      "company": "ZySec AI",
-      "location": "Abu Dhabi Emirate, United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4492302151/",
+      "title": "Vulnerability Researcher (Remote)",
+      "company": "Joblet-AI",
+      "location": "United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4493105980/",
       "reason": "title not security/junior"
     },
     {
-      "title": "النخبة (خريج متدرب) - الأمن السيبراني",
-      "company": "Abu Dhabi Accountability Authority",
-      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4492848329/",
+      "title": "Senior Platform Trust and Safety Engineer",
+      "company": "Salesforce",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4485307770/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Senior Data Enablement Engineer",
+      "company": "Humankind Global Recruitment",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4492333102/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Infrastructure Section Manager - Fintech - Emirati",
+      "company": "Talents Tide",
+      "location": "Ajman, Ajman Emirate, United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4493101576/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Technical Architect (m/f/d)",
+      "company": "Halian | Managed Services, Recruitment Agency & Contract Staffing",
+      "location": "Abu Dhabi Emirate, United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4490946421/",
       "reason": "title not security/junior"
     },
     {
@@ -157,10 +164,10 @@
       "reason": "title not security/junior"
     },
     {
-      "title": "Cyber Security Architect - Banking -CISSP, CISM",
-      "company": "Nair Systems LLC",
-      "location": "Doha, Qatar",
-      "url": "https://www.linkedin.com/jobs/view/4492898120/",
+      "title": "Cybersecurity Manager",
+      "company": "CYBER سايبر",
+      "location": "Jiddah, Makkah, Saudi Arabia",
+      "url": "https://www.linkedin.com/jobs/view/4492316823/",
       "reason": "title not security/junior"
     }
   ]
