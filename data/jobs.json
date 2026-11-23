@@ -1,5 +1,19 @@
 {
-  "generated_at": "2026-11-22T14:55:23.919569+00:00",
-  "count": 0,
-  "jobs": []
+  "generated_at": "2026-11-23T04:03:11.274213+00:00",
+  "count": 1,
+  "jobs": [
+    {
+      "id": "4492374073",
+      "title": "Jr. Threat Hunter/Purple Team Operator-S clearance",
+      "company": "SIXGEN",
+      "location": "United Arab Emirates",
+      "posted": "8 hours ago",
+      "posted_date": "2026-11-22",
+      "url": "https://www.linkedin.com/jobs/view/4492374073/",
+      "hours_ago": 8,
+      "applicants": "Be among the first 25 applicants",
+      "seniority": "Not Applicable",
+      "description": "Listed on CyberJobs.cc, a job board for cybersecurity jobs from the team behind AITraining.jobs. Junior Threat Hunter / Purple Team Operator SIXGEN's mission is to deliver agile, mission-ready cybersecurity solutions that empower government and critical infrastructure organizations to stay ahead of advanced cyber threats. We combine innovation, deep expertise, and leading technical capabilities to uncover vulnerabilities, protect vital systems, and strengthen operational resilience. Position Overview Position: Junior Threat Hunter / Purple Team Operator Job Type: Full Time Location: Remote with travel to customers and test locations as required Clearance Requirement: Active Secret clearance What You'll Do SIXGEN is seeking a junior Threat Hunter / Purple Team Operator to help identify threats that evade existing detection methods, assist in developing and testing hunting hypotheses, and help feed findings back into detection engineering. This role will combine remote threat hunting and on-site purple team coordination in direct support of red team engagements to secure systems, strengthen the defenders, and support efforts to build and validate detection methods that can catch offensive traffic in real time under the guidance of senior team members. This role requires a strong desire to learn, the ability to work both independently and as part of a team on remote threat hunts, and an interest in learning how to translate adversary tradecraft into defensive guidance. Responsibilities include Support hypothesis-driven and intelligence-led threat hunts across endpoints, networks, and cloud telemetry for several weeks prior to each red team engagement. Assist in analyzing logs, alerts, and historical data for indicators of compromise (IOCs), anomalous behavior, and adversary TTPs mapped to the MITRE ATT&CK from partner-provided sources (EDR, SIEM, authentication/identify logs). Help document hunt coverage and methodology, findings, detection recommendations, and any confirmed or suspected compromise, escalating immediately to senior team members if active adversary activity is found. Contribute to a threat hunt summary and support the determination of whether the customer environment is clear prior to red team assessments. Support blue teams during the purple portion of the engagement to assist in detecting, tuning, and validating controls against red team TTPs in real-time. Assist in briefing technical and non-technical stakeholders on hunt result and purple team detection outcomes. Support the Trusted Agent role during the red team assessment and maintain strict confidentiality and operational security with insight into both red and blue team activity. Technology familiarity includes SIEM platforms (e.g., Splunk, Microsoft Sentinel, Elastic). EDR/XDR tooling (e.g. CrowdStrike Falcon, Microsoft Defender for Endpoint, SentinelOne, Carbon Black). Network detection and traffic analysis tools (e.g. Zeek, Suricata, full packet capture). Log aggregation a"
+    }
+  ]
 }
