@@ -151,15 +151,21 @@ def hours_ago(posted):
     return {"minute": 0, "hour": n, "day": n * 24, "week": n * 168, "month": n * 720}[u]
 
 BLOCKS = [0]
+DEADLINE = [float("inf")]   # stop making requests after this time so every run finishes and saves
 
 def get(session, url, params=None):
-    for attempt in range(4):
-        time.sleep(random.uniform(2, 4))
-        r = session.get(url, params=params, headers=HEADERS, timeout=30)
+    for attempt in range(3):
+        if time.time() > DEADLINE[0]:
+            return ""
+        time.sleep(random.uniform(1.5, 3))
+        try:
+            r = session.get(url, params=params, headers=HEADERS, timeout=20)
+        except requests.RequestException:
+            time.sleep(10); continue
         if r.status_code == 200:
             return r.text
         if r.status_code in (429, 999) or r.status_code >= 500:
-            time.sleep(15 * (attempt + 1)); continue
+            time.sleep(10 * (attempt + 1)); continue
         return ""
     print(f"gave up on {url} {params}", file=sys.stderr)
     BLOCKS[0] += 1
@@ -196,9 +202,17 @@ def main():
     BLOCKS[0] = 0
     locs, remotes = (FAST_LOCATIONS, [("India", 1)]) if FAST else (LOCATIONS, REMOTE_SEARCHES)
     searches = [(loc, pages, False) for loc, pages in locs] + [(loc, pages, True) for loc, pages in remotes]
-    for kw in KEYWORD_GROUPS:
-        for loc, pages, remote in searches:
+    # time budget: full sweep 25 min (GitHub kills at 40), quick check 2.5 min; searching gets 60% of it
+    start = time.time()
+    budget = 150 if FAST else 1500
+    DEADLINE[0] = start + budget
+    search_until = start + budget * 0.6
+    # places outermost, so priority places (listed first) always get every title group searched
+    for loc, pages, remote in searches:
+        for kw in KEYWORD_GROUPS:
             for page in range(pages):
+                if time.time() > search_until:
+                    break
                 params = {"keywords": kw, "location": loc, "f_TPR": WINDOW, "f_E": "1,2", "sortBy": "DD", "start": page * 25}
                 if remote:
                     params["f_WT"] = "2"
@@ -212,6 +226,8 @@ def main():
     for job in cards.values():
         if job["id"] in seen:
             continue
+        if time.time() > DEADLINE[0]:
+            break   # out of time: unchecked cards stay unseen and are picked up next run
         why = ""
         if not title_ok(job["title"]):
             why = "title not security/junior"
