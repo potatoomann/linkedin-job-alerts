@@ -28,8 +28,7 @@ LOCATIONS = [("India", 4), ("Kochi, Kerala, India", 1), ("Thiruvananthapuram, Ke
              ("Philippines", 1), ("Hong Kong SAR", 1), ("Japan", 1),
              ("Germany", 1), ("Netherlands", 1), ("Ireland", 1), ("United Kingdom", 1), ("Poland", 1),
              ("Canada", 1), ("Australia", 1), ("New Zealand", 1)]
-FAST_LOCATIONS = [("India", 1), ("Kochi, Kerala, India", 1), ("Bengaluru, Karnataka, India", 1),
-                  ("United Arab Emirates", 1)]
+FAST_LOCATIONS = [("India", 2), ("United Arab Emirates", 1)]   # "India" already covers Kochi and Bengaluru
 # Remote-only searches (LinkedIn f_WT=2). Hybrid jobs already come through the city/country searches above.
 REMOTE_SEARCHES = [("India", 2), ("Worldwide", 2)]
 REMOTE_OPEN = re.compile(r"\b(anywhere|worldwide|global(ly)?|remote[- ]first|work from anywhere|india|apac|asia)\b", re.I)
@@ -51,16 +50,18 @@ SPONSOR_NO = re.compile(r"no (visa )?sponsorship|unable to sponsor|not (able to 
                         r"must (have|hold) (the )?(right|authori[sz]ation) to work|citizens? only|"
                         r"permanent residents? only|security clearance", re.I)
 MAX_HOURS, SEEN_DAYS = 24, 30
-# FAST=1: quick check every 15 min (priority places, last 1h). Otherwise: full sweep (all places, last 6h), hourly.
-FAST = os.environ.get("FAST") == "1"
-WINDOW = "r3600" if FAST else "r21600"
+# LIVE=1: never stops — quick check every ~3 min (priority places, last 1h) + full sweep every hour.
+# Otherwise one full sweep (all places, last 6h) and exit — used by the hourly GitHub Action.
+LIVE = os.environ.get("LIVE") == "1"
+LIVE_EVERY, FULL_EVERY = 180, 3600   # seconds
+FAST, WINDOW = False, "r21600"
 NTFY_TOPIC = os.environ.get("NTFY_TOPIC", "")   # phone push via the free ntfy app; set as a GitHub secret
 MAX_ALERTS = 10
 SEARCH_URL = "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search"
 DETAIL_URL = "https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/{}"
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
            "(KHTML, like Gecko) Chrome/126.0 Safari/537.36", "Accept-Language": "en-US,en;q=0.9"}
-DATA = Path(__file__).parent / "data"
+DATA = Path(os.environ.get("DATA_DIR") or Path(__file__).parent / "data")
 
 SECURITY_WORDS = re.compile(
     r"\b(soc|security|cyber|cybersecurity|infosec|vapt|penetration|pentest(er|ing)?|ethical hack(er|ing)|appsec|"
@@ -149,6 +150,8 @@ def hours_ago(posted):
     n, u = int(m.group(1)), m.group(2)
     return {"minute": 0, "hour": n, "day": n * 24, "week": n * 168, "month": n * 720}[u]
 
+BLOCKS = [0]
+
 def get(session, url, params=None):
     for attempt in range(4):
         time.sleep(random.uniform(2, 4))
@@ -159,6 +162,7 @@ def get(session, url, params=None):
             time.sleep(15 * (attempt + 1)); continue
         return ""
     print(f"gave up on {url} {params}", file=sys.stderr)
+    BLOCKS[0] += 1
     return ""
 
 def alert(jobs):
@@ -189,6 +193,7 @@ def main():
     seen = {k: v for k, v in load("checked.json", {}).items()
             if datetime.fromisoformat(v) > now - timedelta(days=SEEN_DAYS)}
     session, cards = requests.Session(), {}
+    BLOCKS[0] = 0
     locs, remotes = (FAST_LOCATIONS, [("India", 1)]) if FAST else (LOCATIONS, REMOTE_SEARCHES)
     searches = [(loc, pages, False) for loc, pages in locs] + [(loc, pages, True) for loc, pages in remotes]
     for kw in KEYWORD_GROUPS:
@@ -253,7 +258,24 @@ def main():
     (DATA / "checked.json").write_text(json.dumps(seen, indent=1, sort_keys=True))
     (DATA / "rejected.json").write_text(json.dumps({"generated_at": now.isoformat(),
         "cards": len(cards), "rejected": rejected}, indent=2, ensure_ascii=False))
-    print(f"{'fast' if FAST else 'full'}: searched {len(cards)} cards, {len(new_jobs)} listed, {len(rejected)} rejected")
+    print(f"{now:%H:%M} {'quick' if FAST else 'full'}: {len(cards)} cards, {len(new_jobs)} listed, "
+          f"{len(rejected)} rejected, {BLOCKS[0]} blocked", flush=True)
+    return BLOCKS[0] >= 3
+
+def live():
+    """Run forever: quick check every ~3 min, full sweep every hour. Sleeps 15 min if LinkedIn blocks us."""
+    global FAST, WINDOW
+    last_full = float("-inf")
+    while True:
+        full = time.time() - last_full >= FULL_EVERY
+        FAST, WINDOW = (False, "r21600") if full else (True, "r3600")
+        try:
+            blocked = main()
+            if full:
+                last_full = time.time()
+        except Exception as e:          # never die; log and keep going
+            print(f"{datetime.now(timezone.utc):%H:%M} error: {e}", file=sys.stderr); blocked = False
+        time.sleep(900 if blocked else LIVE_EVERY + random.uniform(-30, 30))
 
 if __name__ == "__main__":
-            main()
+    live() if LIVE else main()
