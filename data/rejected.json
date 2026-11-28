@@ -1,1042 +1,993 @@
 {
-  "generated_at": "2026-11-27T23:30:08.084668+00:00",
-  "cards": 152,
+  "generated_at": "2026-11-28T07:56:13.813534+00:00",
+  "cards": 151,
   "rejected": [
     {
-      "title": "Sr Analyst, Cyber Security Threat Management",
-      "company": "Northern Trust",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://www.linkedin.com/jobs/view/4486238001/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Threat Analyst 3",
-      "company": "Sophos",
+      "title": "Senior Incident Response Analyst, LMNTRIX",
+      "company": "LMNTRIX",
       "location": "India",
-      "url": "https://www.linkedin.com/jobs/view/4488414536/",
-      "reason": "applicants: Over 200 applicants"
-    },
-    {
-      "title": "Technical Support Representative-Security Analyst",
-      "company": "IBM",
-      "location": "Mumbai Metropolitan Region",
-      "url": "https://www.linkedin.com/jobs/view/4486235226/",
-      "reason": "applicants: Over 200 applicants"
-    },
-    {
-      "title": "Senior Associate cloud security",
-      "company": "NTT DATA, Inc.",
-      "location": "Greater Hyderabad Area",
-      "url": "https://www.linkedin.com/jobs/view/4494219288/",
+      "url": "https://www.linkedin.com/jobs/view/4495360320/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Senior Security Engineer I - Confluent",
-      "company": "IBM",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4486243980/",
+      "title": "Threat Hunter/Purple Team Operator",
+      "company": "SIXGEN",
+      "location": "India",
+      "url": "https://www.linkedin.com/jobs/view/4494245259/",
+      "reason": "experience: 3 yrs, Not Applicable"
+    },
+    {
+      "title": "Microsoft 365 Security Specialist",
+      "company": "Programmers.io",
+      "location": "Jaipur, Rajasthan, India",
+      "url": "https://www.linkedin.com/jobs/view/4495365309/",
+      "reason": "experience: None yrs, Mid-Senior level"
+    },
+    {
+      "title": "Cyber Security Specialist - WAF SME",
+      "company": "Meta Infotech Limited",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4494243024/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Product & Solution Security Professional (Signalling)",
-      "company": "Siemens",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://www.linkedin.com/jobs/view/4495316692/",
-      "reason": "experience: 4 yrs, Mid-Senior level"
-    },
-    {
-      "title": "Security Specialist,AVP",
-      "company": "NatWest Group",
-      "location": "Chennai, Tamil Nadu, India",
-      "url": "https://www.linkedin.com/jobs/view/4495835629/",
-      "reason": "experience: None yrs, Not Applicable"
-    },
-    {
-      "title": "Security Specialist,AVP",
-      "company": "NatWest Group",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://www.linkedin.com/jobs/view/4495836590/",
-      "reason": "experience: None yrs, Not Applicable"
-    },
-    {
-      "title": "Senior Specialist - Product Security",
-      "company": "Fresenius Medical Care",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4495823017/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Principal Engineer (security)",
-      "company": "Sage",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4480343847/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Associate, Cybr Sec ThreatMgmt",
-      "company": "Northern Trust",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://www.linkedin.com/jobs/view/4486253497/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Senior Penetration Tester",
-      "company": "Beckman Coulter Diagnostics",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4469749537/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Advanced Product Security Senior Tester",
+      "title": "IAM Violation Management Analyst",
       "company": "Barclays",
       "location": "Pune Division, Maharashtra, India",
-      "url": "https://www.linkedin.com/jobs/view/4494225274/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Agentic AI Engineer",
-      "company": "Foundrings LLP",
-      "location": "Chennai, Tamil Nadu, India",
-      "url": "https://www.linkedin.com/jobs/view/4495885434/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Product & Solution Security Professional (Signalling)",
-      "company": "Siemens",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4495320615/",
-      "reason": "applicants: unknown"
-    },
-    {
-      "title": "Cyber Security Manager",
-      "company": "digiALERT",
-      "location": "Chennai, Tamil Nadu, India",
-      "url": "https://www.linkedin.com/jobs/view/4495080478/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Senior Security Engineer",
-      "company": "Procore Technologies",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4495831843/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Senior DevOps Engineer - Assistant Vice President",
-      "company": "Citi",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://www.linkedin.com/jobs/view/4487320473/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "AI Security Architect",
-      "company": "VertxBuddy",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4495076790/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Lead Software Engineer - Java, Spring, Springboot, Kafka, Cryptography, Session Key Derivation, HSM",
-      "company": "Mastercard",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://www.linkedin.com/jobs/view/4440190406/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "TC-CS-AEET-Senior-ZT",
-      "company": "EY",
-      "location": "Kolkata, West Bengal, India",
-      "url": "https://www.linkedin.com/jobs/view/4476604615/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "TC-CS-AEET-Senior-ZT",
-      "company": "EY",
-      "location": "Chennai, Tamil Nadu, India",
-      "url": "https://www.linkedin.com/jobs/view/4476497878/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Lead Network & Security Engineer",
-      "company": "Alter Domus",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://www.linkedin.com/jobs/view/4495895213/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Palo Alto Firewall Engineer, Level 1",
-      "company": "Flexiple",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://www.linkedin.com/jobs/view/4495893181/",
+      "url": "https://www.linkedin.com/jobs/view/4494248005/",
       "reason": "experience: None yrs, Associate"
     },
     {
-      "title": "GRC-Oracle GRC-Staff",
-      "company": "EY",
-      "location": "Kolkata, West Bengal, India",
-      "url": "https://www.linkedin.com/jobs/view/4478108106/",
+      "title": "Senior Network Security Enginer",
+      "company": "NS3TechSolutions Private Limited",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://www.linkedin.com/jobs/view/4495371068/",
       "reason": "title not security/junior"
     },
     {
-      "title": "GRC-Oracle GRC-Staff",
-      "company": "EY",
+      "title": "Manager - Vulnerability Management & VAPT",
+      "company": "r3 Consultant",
       "location": "Chennai, Tamil Nadu, India",
-      "url": "https://www.linkedin.com/jobs/view/4478100481/",
+      "url": "https://www.linkedin.com/jobs/view/4496013475/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Control Assurance Lead",
-      "company": "AVEVA",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://www.linkedin.com/jobs/view/4495322659/",
+      "title": "Manager Security Engineering",
+      "company": "r3 Consultant",
+      "location": "Chennai, Tamil Nadu, India",
+      "url": "https://www.linkedin.com/jobs/view/4496004883/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Information Security Analyst",
-      "company": "Deutsche Bank",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://www.linkedin.com/jobs/view/4495859141/",
-      "reason": "experience: 3 yrs, Not Applicable"
-    },
-    {
-      "title": "Manager – Data Governance & Protection Engineering",
-      "company": "Kroll",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4477722158/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Package Consultant-SAP GRC",
-      "company": "IBM",
-      "location": "Greater Kolkata Area",
-      "url": "https://www.linkedin.com/jobs/view/4483429731/",
-      "reason": "applicants: 58 applicants"
-    },
-    {
-      "title": "Associate Manager - SAP-SAP Security",
-      "company": "Bristlecone",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4462751985/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Senior AI Governance Specialist",
-      "company": "Northern Trust",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4477395739/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "SOC Auditor",
-      "company": "TÜV SÜD",
-      "location": "Mumbai Metropolitan Region",
-      "url": "https://www.linkedin.com/jobs/view/4470148442/",
-      "reason": "applicants: 121 applicants"
-    },
-    {
-      "title": "Security Consultant (Commvault)",
-      "company": "World Wide Technology",
+      "title": "Sr. Vulnerability Research Engineer",
+      "company": "Flexiple",
       "location": "India",
-      "url": "https://www.linkedin.com/jobs/view/4486026745/",
-      "reason": "applicants: 99 applicants"
-    },
-    {
-      "title": "Agile-TC-CS-AEET-Manager-ZT",
-      "company": "EY",
-      "location": "Kochi, Kerala, India",
-      "url": "https://www.linkedin.com/jobs/view/4476616163/",
+      "url": "https://www.linkedin.com/jobs/view/4496028091/",
       "reason": "title not security/junior"
     },
     {
-      "title": "FAAS MS - Service Management Senior",
-      "company": "EY",
-      "location": "Kochi, Kerala, India",
-      "url": "https://www.linkedin.com/jobs/view/4486234194/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "GRC-Oracle GRC-Staff",
-      "company": "EY",
-      "location": "Kochi, Kerala, India",
-      "url": "https://www.linkedin.com/jobs/view/4477992931/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Tech S And T-FullStack-React-Python-Manager-RT-GD02",
-      "company": "EY",
-      "location": "Kochi, Kerala, India",
-      "url": "https://www.linkedin.com/jobs/view/4486259306/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "FSRC-R and CT-RCT-ACTIMIZE and JAVA-SENIOR",
-      "company": "EY",
-      "location": "Kochi, Kerala, India",
-      "url": "https://www.linkedin.com/jobs/view/4486246919/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Tech S and T- Tech Strategy - Senior consultant-GDSF04",
-      "company": "EY",
-      "location": "Kochi, Kerala, India",
-      "url": "https://www.linkedin.com/jobs/view/4471419779/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Systems / DevOps Engineers",
-      "company": "Mettle Networks",
-      "location": "Thiruvananthapuram, Kerala, India",
-      "url": "https://www.linkedin.com/jobs/view/4495076911/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Security Specialist,AVP",
-      "company": "NatWest Group",
+      "title": "PSR Lead",
+      "company": "Quest Global",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4495825949/",
-      "reason": "experience: None yrs, Not Applicable"
+      "url": "https://www.linkedin.com/jobs/view/4495349780/",
+      "reason": "title not security/junior"
     },
     {
-      "title": "Messaging Services Specialist",
-      "company": "NTT DATA North America",
+      "title": "Principal Architect, Frontier AI Offense & Defense Security",
+      "company": "Flexiple",
+      "location": "Delhi, India",
+      "url": "https://www.linkedin.com/jobs/view/4496008842/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Platform Lead",
+      "company": "Pinaca Technologies",
+      "location": "Chennai, Tamil Nadu, India",
+      "url": "https://www.linkedin.com/jobs/view/4494248110/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Software Engineer - AI",
+      "company": "Barclays",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4494246060/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Cloud & DevOps Infrastructure Engineer",
+      "company": "Barclays",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4493844234/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "AI Engineer - Agentic AI / GenAI",
+      "company": "SecNinjaz Technologies LLP",
+      "location": "Delhi, India",
+      "url": "https://www.linkedin.com/jobs/view/4496024315/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Software Architect (Full Stack, Cloud & IoT)",
+      "company": "Aeternus Energy",
+      "location": "Chennai, Tamil Nadu, India",
+      "url": "https://www.linkedin.com/jobs/view/4495362420/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Linux Engineer",
+      "company": "Syncarp",
       "location": "Bangalore Urban, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4495878722/",
+      "url": "https://www.linkedin.com/jobs/view/4496025091/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Agile-TC-CS-AEET-Manager-ZT",
-      "company": "EY",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4476608372/",
+      "title": "Infrastructure security Manager - Network Security",
+      "company": "Talentgigs",
+      "location": "Chennai, Tamil Nadu, India",
+      "url": "https://www.linkedin.com/jobs/view/4495350455/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Lead Site Reliability Engineer",
-      "company": "JPMorganChase",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4495888613/",
+      "title": "Assistant Manager – ITGC / IT Audit",
+      "company": "United HR Solutions Pvt. Ltd.",
+      "location": "Ahmedabad, Gujarat, India",
+      "url": "https://www.linkedin.com/jobs/view/4496018373/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Software Test Engineering Technical Leader | Python, Networking/Security, AI | 9 to 14 Years | Bangalore",
-      "company": "Cisco",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4480342711/",
-      "reason": "applicants: 102 applicants"
-    },
-    {
-      "title": "Software Engineering Internship – SI & Open-Source Construction Ecosystem",
-      "company": "JERRNI",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4495355051/",
+      "title": "Vice President Compliance",
+      "company": "Compliance Health Pvt Ltd",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://www.linkedin.com/jobs/view/4494235646/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Application Consultant-DevOps",
-      "company": "IBM",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4486265040/",
+      "title": "Internal Controls Lead - GDC",
+      "company": "ERM",
+      "location": "New Delhi, Delhi, India",
+      "url": "https://www.linkedin.com/jobs/view/4494227727/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Sr. Software Engineer - DevOps",
-      "company": "Ecolab",
+      "title": "Assistant Manager - Data & Risk Management",
+      "company": "Barclays",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://www.linkedin.com/jobs/view/4493829758/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Manager(Finance) - Internal Audit, Risk Management & Compliance",
+      "company": "Schilthorn Precision Engineering Pvt. Ltd.",
+      "location": "Ahmedabad, Gujarat, India",
+      "url": "https://www.linkedin.com/jobs/view/4494228782/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Embedded Security",
+      "company": "LeadSoC Technologies Pvt Ltd",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4495367249/",
+      "reason": "experience: 4 yrs, Mid-Senior level"
+    },
+    {
+      "title": "Senior Full-Stack Engineer",
+      "company": "Flexiple",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4496011338/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Director - Software Engineering",
+      "company": "Capital One",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4496018037/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Consulting Sr Associate, Audit",
+      "company": "ERM",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4494232578/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Program Director",
+      "company": "WhiteSlips Job Management Consultants",
       "location": "Bengaluru East, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4488145289/",
+      "url": "https://www.linkedin.com/jobs/view/4496026119/",
       "reason": "title not security/junior"
     },
     {
-      "title": "AI Architect",
-      "company": "Greenway Health",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4480326844/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Software Development Engineer 4",
-      "company": "WEX",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4462790758/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "TC-CS-AD-Cyber LDE",
-      "company": "EY",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4482512033/",
-      "reason": "experience: 15 yrs, Mid-Senior level"
-    },
-    {
-      "title": "Senior MS Network engineer(L2)",
-      "company": "NTT DATA, Inc.",
+      "title": "Senior Consultant- Smart Cities Expert",
+      "company": "AtkinsRéalis",
       "location": "Bengaluru East, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4494223111/",
+      "url": "https://www.linkedin.com/jobs/view/4494115140/",
       "reason": "title not security/junior"
     },
     {
-      "title": "GRC-Oracle GRC-Staff",
-      "company": "EY",
+      "title": "SQL Database Administrator (DBA) + Automation Engineer (Ansible & Python)",
+      "company": "Cenergy International Services",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4477998577/",
+      "url": "https://www.linkedin.com/jobs/view/4494228946/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Analyst - Business Consulting Risk - TMT - CNS - Risk - Process & Controls - Bangalore",
-      "company": "EY",
+      "title": "Data Analyst (SAP MDM / Databricks)",
+      "company": "Flexiple",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4495331687/",
+      "url": "https://www.linkedin.com/jobs/view/4496001729/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Senior Auditor II",
-      "company": "Hewlett Packard Enterprise",
+      "title": "Internship opportunity at TALFOR for final year law students.",
+      "company": "TALFOR",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4495832832/",
+      "url": "https://www.linkedin.com/jobs/view/4494241467/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Senior Principal - Automation Engineer / Architect",
-      "company": "GSK",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4481475295/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Industrial Trainee - Business Consulting Risk - TMT - CNS - RISK - PROCESS & CONTROLS - Bangalore",
-      "company": "EY",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.linkedin.com/jobs/view/4495337313/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Senior Consultant / Assistant Manager - Risk Consulting - UAE",
-      "company": "ACCA Careers",
-      "location": "Dubai, Dubai, United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4495315743/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "AVP Internal Audit (UAE Nationals Only)",
-      "company": "Citi",
-      "location": "Dubai, Dubai, United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4486926246/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Software Engineer",
-      "company": "Your Script Produced!",
-      "location": "Dubai, Dubai, United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4495346326/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Vice President, Internal Audit, Risk Management (UAE Nationals only)",
-      "company": "Citi",
-      "location": "Dubai, Dubai, United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4486916604/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Head of Finance Process & Compliance | Al-Futtaim Automotive | Finance",
-      "company": "Al-Futtaim",
-      "location": "Dubai, Dubai, United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4495844316/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Senior Compliance Analyst",
-      "company": "USDU / Universal",
-      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4486788076/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Senior Compliance Analyst",
-      "company": "Aquanow",
-      "location": "Dubai, United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4486520213/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Channel Account Manager",
-      "company": "Keyfactor",
-      "location": "Dubai, Dubai, United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4495336039/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Business Development Manager – Cybersecurity Solutions (Women in Tech & Leadership Initiative)",
-      "company": "Zyberwall",
-      "location": "Dubai, United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4494209592/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Senior Google Cloud Engineer (onsite, client deployment)",
-      "company": "Stealth Startup",
-      "location": "Dhahran, Saudi Arabia",
-      "url": "https://www.linkedin.com/jobs/view/4495883504/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Senior | Audit | Audit & Assurance | KSA - Saudi National",
-      "company": "Deloitte",
-      "location": "Riyadh, Riyadh, Saudi Arabia",
-      "url": "https://www.linkedin.com/jobs/view/4434297347/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "OCONUS - All Source Analyst - (Mid-Level)",
-      "company": "Amentum",
-      "location": "Al Khor and Al Thakhira, Qatar",
-      "url": "https://www.linkedin.com/jobs/view/4480153084/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Senior Financial Analyst / Accountant, Global Fund, Doha, Qatar",
-      "company": "PER",
-      "location": "Doha, Doha, Qatar",
-      "url": "https://www.linkedin.com/jobs/view/4484135602/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Senior | IT Audit | Audit & Assurance | Kuwait FY27",
-      "company": "Deloitte",
-      "location": "Kuwait",
-      "url": "https://www.linkedin.com/jobs/view/4453077736/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Experienced Associate | IT Audit | Audit & Assurance | Kuwait FY27",
-      "company": "Deloitte",
-      "location": "Kuwait",
-      "url": "https://www.linkedin.com/jobs/view/4453082738/",
-      "reason": "applicants: Over 200 applicants"
-    },
-    {
-      "title": "Red Team Analyst (AVP)",
-      "company": "OCBC",
-      "location": "Singapore, Singapore",
-      "url": "https://www.linkedin.com/jobs/view/4463129294/",
-      "reason": "experience: 5 yrs, Not Applicable"
-    },
-    {
-      "title": "Staff AI Security Analyst",
-      "company": "Agoda",
-      "location": "Singapore, Singapore",
-      "url": "https://www.linkedin.com/jobs/view/4486932641/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Cybersecurity, Automation Engineer",
-      "company": "ICE",
-      "location": "Singapore, Singapore",
-      "url": "https://www.linkedin.com/jobs/view/4480372201/",
+      "title": "Threat Hunter/Purple Team Operator",
+      "company": "SIXGEN",
+      "location": "United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4494245263/",
       "reason": "experience: 3 yrs, Not Applicable"
     },
     {
-      "title": "Staff AI Security Engineer",
-      "company": "Agoda",
-      "location": "Singapore, Singapore",
-      "url": "https://www.linkedin.com/jobs/view/4486948286/",
+      "title": "Founding Cybersecurity Engineer",
+      "company": "Nameless Ventures",
+      "location": "Dubai, United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4496014541/",
+      "reason": "experience: 7 yrs, Mid-Senior level"
+    },
+    {
+      "title": "Cyber Security and Threat Monitoring Specialist - SOC(SIEM, SOAR, and DLP )",
+      "company": "TAT IT Technolgies",
+      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4495352738/",
+      "reason": "experience: 7 yrs, Mid-Senior level"
+    },
+    {
+      "title": "Backend Security Engineer (Remote)",
+      "company": "Joblet-AI",
+      "location": "United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4495344910/",
+      "reason": "experience: None yrs, Mid-Senior level"
+    },
+    {
+      "title": "Application Security Engineer (Remote)",
+      "company": "Joblet-AI",
+      "location": "United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4495353512/",
+      "reason": "experience: None yrs, Mid-Senior level"
+    },
+    {
+      "title": "Offensive Security Researcher (Independent Contractor)",
+      "company": "Xenon Intelligence",
+      "location": "United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4494230308/",
+      "reason": "experience: None yrs, Mid-Senior level"
+    },
+    {
+      "title": "Senior Solutions Architect",
+      "company": "HireAlpha",
+      "location": "Dubai, United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4495369183/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Site Reliability Engineer",
-      "company": "Geotab",
+      "title": "Deployment Lead - Software Platform UAE",
+      "company": "Harmattan AI",
+      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4496000988/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Fullstack Software Engineer (Remote)",
+      "company": "Joblet-AI",
+      "location": "United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4495351550/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Compliance Officer, MENA",
+      "company": "Stryker",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4494967515/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Compliance Manager",
+      "company": "Teach For Chad",
+      "location": "Sharjah, Sharjah Emirate, United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4495373088/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Vice President – Compliance",
+      "company": "Syria HR Hub",
+      "location": "United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4494236646/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Regulatory Compliance",
+      "company": "Syria Talent & Advisory",
+      "location": "United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4494245213/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Risk Analyst",
+      "company": "NOVY Egypt",
+      "location": "Al Ruways Industrial City, Abu Dhabi Emirate, United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4495362458/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Cybersecurity Research Participant (Remote)",
+      "company": "Joblet-AI",
+      "location": "United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4495346759/",
+      "reason": "experience: None yrs, Mid-Senior level"
+    },
+    {
+      "title": "Senior Counsel, Legal",
+      "company": "ArcelorMittal Tubular Products Al-Jubail",
+      "location": "Dhahran, Eastern, Saudi Arabia",
+      "url": "https://www.linkedin.com/jobs/view/4495353516/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "HRIS Specialist",
+      "company": "AgileGrid Solutions",
+      "location": "Saudi Arabia",
+      "url": "https://www.linkedin.com/jobs/view/4496021279/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "SAUDI ONLY - JEDDAH - Junior Strategy Associate (exDeloitte, exBCG, exBain, exEY, exPwC)",
+      "company": "withGrowth",
+      "location": "Jeddah, Makkah, Saudi Arabia",
+      "url": "https://www.linkedin.com/jobs/view/4496014677/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Administrative Specialist",
+      "company": "AgileGrid Solutions",
+      "location": "Saudi Arabia",
+      "url": "https://www.linkedin.com/jobs/view/4496012715/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Risk Manager",
+      "company": "AtkinsRéalis",
+      "location": "Riyadh, Riyadh, Saudi Arabia",
+      "url": "https://www.linkedin.com/jobs/view/4494110339/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Threat Hunter/Purple Team Operator",
+      "company": "SIXGEN",
       "location": "Singapore",
-      "url": "https://www.linkedin.com/jobs/view/4488029715/",
-      "reason": "title not security/junior"
+      "url": "https://www.linkedin.com/jobs/view/4494229965/",
+      "reason": "experience: 3 yrs, Not Applicable"
     },
     {
-      "title": "AVP, AI Data Engineer (Data Loss Monitoring)",
-      "company": "OCBC",
+      "title": "IT Governance, Risk & Control Specialist (GRC / Technology / Banking)",
+      "company": "Smart IMS Inc.",
       "location": "Singapore, Singapore",
-      "url": "https://www.linkedin.com/jobs/view/4488102708/",
-      "reason": "title not security/junior"
+      "url": "https://www.linkedin.com/jobs/view/4492567980/",
+      "reason": "applicants: 106 applicants"
     },
     {
-      "title": "IT Infra Engineer (Endpoint Management)",
-      "company": "AvePoint",
-      "location": "Singapore",
-      "url": "https://www.linkedin.com/jobs/view/4405926677/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "IT Engineer",
-      "company": "BEUMER Group",
+      "title": "Information Technology Project Engineer",
+      "company": "eAspire Technolabs Inc.",
       "location": "Singapore, Singapore",
-      "url": "https://www.linkedin.com/jobs/view/4478865326/",
+      "url": "https://www.linkedin.com/jobs/view/4496005788/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Foundation Engineering, SDLC & Runtime, Gitlab Software Engineer, Associate, Singapore",
-      "company": "Goldman Sachs",
+      "title": "IT Operations Support Engineer",
+      "company": "Capgemini",
       "location": "Singapore, Singapore",
-      "url": "https://www.linkedin.com/jobs/view/4478836613/",
+      "url": "https://www.linkedin.com/jobs/view/4470916638/",
       "reason": "title not security/junior"
     },
     {
-      "title": "DevOps Engineering Lead (Vice President)",
-      "company": "Citi",
-      "location": "Singapore, Singapore",
-      "url": "https://www.linkedin.com/jobs/view/4486921441/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Senior Software Engineer (Managed Services)",
-      "company": "AvePoint",
-      "location": "Singapore",
-      "url": "https://www.linkedin.com/jobs/view/4405965739/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Full Stack Developer Intern (AI topics) SAP Business AI Singapore",
-      "company": "SAP",
-      "location": "Singapore, Singapore",
-      "url": "https://www.linkedin.com/jobs/view/4452925602/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "DevOps Engineer",
-      "company": "OCBC",
-      "location": "Singapore, Singapore",
-      "url": "https://www.linkedin.com/jobs/view/4461202903/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "IT Infrastructure Engineer",
-      "company": "AvePoint",
-      "location": "Singapore",
-      "url": "https://www.linkedin.com/jobs/view/4049552084/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Technology Program Manager, Risk and Governance, Markets Trading Technology",
-      "company": "Citi",
-      "location": "Singapore, Singapore",
-      "url": "https://www.linkedin.com/jobs/view/4486905857/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Internal Control Business Partner - Singapore - Internal Control",
-      "company": "ByteDance",
-      "location": "Singapore, Singapore",
-      "url": "https://www.linkedin.com/jobs/view/4495334448/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Corporate Planning Manager",
-      "company": "Rakuten Asia Pte Ltd",
-      "location": "Singapore",
-      "url": "https://www.linkedin.com/jobs/view/4493605944/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Risk and Prevention Operations Risk Manager",
-      "company": "OCBC",
-      "location": "Singapore, Singapore",
-      "url": "https://www.linkedin.com/jobs/view/4488148180/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Senior Vice President, Investigations, Diligence and Compliance - Specialist",
-      "company": "Kroll",
-      "location": "Singapore, Singapore",
-      "url": "https://www.linkedin.com/jobs/view/4477363161/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Regional Head of Legal, Asia",
-      "company": "Allianz Commercial",
-      "location": "Singapore, Singapore",
-      "url": "https://www.linkedin.com/jobs/view/4477831728/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Solution Architect (#65)",
-      "company": "AvePoint",
-      "location": "Singapore",
-      "url": "https://www.linkedin.com/jobs/view/4157270845/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Internship: Global Markets, Business Management Unit/First Line of Defence Support & Programs [Jan - Jun 2027]",
-      "company": "OCBC",
-      "location": "Singapore, Singapore",
-      "url": "https://www.linkedin.com/jobs/view/4472033176/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Sr Security Systems Engineer",
-      "company": "Dexcom",
-      "location": "Taman Pulau Pinang, Penang, Malaysia",
-      "url": "https://www.linkedin.com/jobs/view/4488122983/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Fraud Analytics Senior Analyst",
-      "company": "Citi",
-      "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
-      "url": "https://www.linkedin.com/jobs/view/4486913668/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Fraud Operations Intermediate Analyst",
-      "company": "Citi",
-      "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
-      "url": "https://www.linkedin.com/jobs/view/4495336770/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Fraud Operations Manager (Japanese Speaker)",
-      "company": "Citi",
-      "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
-      "url": "https://www.linkedin.com/jobs/view/4486904872/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Fraud Ops Senior Analyst",
-      "company": "Citi",
-      "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
-      "url": "https://www.linkedin.com/jobs/view/4486915662/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Senior Software Engineer (Contract)",
-      "company": "Experian Asia Pacific",
-      "location": "Cyberjaya, Selangor, Malaysia",
-      "url": "https://www.linkedin.com/jobs/view/4485890846/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "System Engineer – SCADA & System Integration",
-      "company": "SAE Malaysia Sdn Bhd reg#200501006583 (683900A)",
+      "title": "Senior Incident Response Analyst, LMNTRIX",
+      "company": "LMNTRIX",
       "location": "Malaysia",
-      "url": "https://www.linkedin.com/jobs/view/4495355078/",
+      "url": "https://www.linkedin.com/jobs/view/4494226933/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Regional Senior Ethics Specialist",
-      "company": "USANA Health Sciences",
+      "title": "Threat Hunter/Purple Team Operator",
+      "company": "SIXGEN",
+      "location": "Malaysia",
+      "url": "https://www.linkedin.com/jobs/view/4494231878/",
+      "reason": "experience: 3 yrs, Not Applicable"
+    },
+    {
+      "title": "Senior Manager, Cyber Strategy & Transformation",
+      "company": "Randstad Malaysia",
       "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
-      "url": "https://www.linkedin.com/jobs/view/4488134811/",
+      "url": "https://www.linkedin.com/jobs/view/4494225887/",
       "reason": "title not security/junior"
     },
     {
-      "title": "KYC Due Diligence Analyst",
-      "company": "Citi",
+      "title": "Information Technology Infrastructure Specialist",
+      "company": "Xionex",
+      "location": "Greater Kuala Lumpur",
+      "url": "https://www.linkedin.com/jobs/view/4495361129/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Solutions Architect",
+      "company": "Airswift",
       "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
-      "url": "https://www.linkedin.com/jobs/view/4486905829/",
+      "url": "https://www.linkedin.com/jobs/view/4490411810/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Associate, Investigations Diligence and Compliance - Core",
-      "company": "Kroll",
+      "title": "Senior Network Engineer- LAN/ LAN Network",
+      "company": "Tap Growth ai",
       "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
-      "url": "https://www.linkedin.com/jobs/view/4477380537/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Líder de Plataforma SAP Analytics Cloud (SAC)",
-      "company": "GBM",
-      "location": "Bandar Banang Jaya, Johore, Malaysia",
-      "url": "https://www.linkedin.com/jobs/view/4495334872/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "I&P GN - Malaysia - Digital Core – Consultant - Enterprise Advisory -EA",
-      "company": "Accenture Southeast Asia",
-      "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
-      "url": "https://www.linkedin.com/jobs/view/4495319678/",
+      "url": "https://www.linkedin.com/jobs/view/4495367188/",
       "reason": "title not security/junior"
     },
     {
       "title": "Global Accounts Payable Manager, Analytics & Process Intelligence,",
       "company": "Baxter International Inc.",
       "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
-      "url": "https://www.linkedin.com/jobs/view/4495885568/",
+      "url": "https://www.linkedin.com/jobs/view/4496013284/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Professional, BI Analyst (TCF)",
-      "company": "Concentrix",
-      "location": "Greater Kuala Lumpur",
-      "url": "https://www.linkedin.com/jobs/view/4449527648/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Field Engineer (Customer Service)",
-      "company": "Motorola Solutions",
+      "title": "Executive Office - Transformation Manager",
+      "company": "Clarks",
       "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
-      "url": "https://www.linkedin.com/jobs/view/4471484474/",
+      "url": "https://www.linkedin.com/jobs/view/4493635432/",
       "reason": "title not security/junior"
     },
     {
-      "title": "EXECUTIVE - CORPORATE AFFAIRS AND LEGAL",
-      "company": "DPR",
+      "title": "Mobile App Developer Intern",
+      "company": "VisionRoot",
       "location": "Colombo, Western Province, Sri Lanka",
-      "url": "https://www.linkedin.com/jobs/view/4495087421/",
+      "url": "https://www.linkedin.com/jobs/view/4495358706/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Program Management- AOA (SAE) Senior",
-      "company": "EY",
+      "title": "UKI Technology & Reporting, Clients & Industries",
+      "company": "GSS HR Solutions Private Limted",
       "location": "Colombo, Western Province, Sri Lanka",
-      "url": "https://www.linkedin.com/jobs/view/4479321804/",
+      "url": "https://www.linkedin.com/jobs/view/4494240021/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Threat Hunter/Purple Team Operator",
+      "company": "SIXGEN",
+      "location": "Vietnam",
+      "url": "https://www.linkedin.com/jobs/view/4494238637/",
+      "reason": "experience: 3 yrs, Not Applicable"
+    },
+    {
+      "title": "Senior Executive/Executive – Internal Control (IT Risk & Assurance)",
+      "company": "Con Cung Corporation (Concung.com)",
+      "location": "Ho Chi Minh City, Vietnam",
+      "url": "https://www.linkedin.com/jobs/view/4495308632/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Senior IT Operation (Banking)",
+      "company": "GPBank",
+      "location": "Hanoi, Hanoi, Vietnam",
+      "url": "https://www.linkedin.com/jobs/view/4495350515/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "CHỦ QUẢN IT",
+      "company": "ARC WORKS COMPANY LIMITED",
+      "location": "Ho Chi Minh City, Vietnam",
+      "url": "https://www.linkedin.com/jobs/view/4495349652/",
       "reason": "title not security/junior"
     },
     {
       "title": "DevOps Engineer",
-      "company": "Motorola Solutions",
-      "location": "Ho Chi Minh City, Ho Chi Minh City, Vietnam",
-      "url": "https://www.linkedin.com/jobs/view/4479793527/",
+      "company": "My clients",
+      "location": "Ho Chi Minh City, Vietnam",
+      "url": "https://www.linkedin.com/jobs/view/4495373010/",
       "reason": "title not security/junior"
     },
     {
-      "title": "[HN] Product Software Engineer (Junior 1-2+ years of experience)",
-      "company": "Base Careers",
+      "title": "DevOps Engineer (Kubernetes, AWS, CI/CD)",
+      "company": "Talentia Consulting",
+      "location": "Ho Chi Minh City, Vietnam",
+      "url": "https://www.linkedin.com/jobs/view/4495356711/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Legal Executive - E-commerce",
+      "company": "FADO Global | Mua Sắm Từ Mỹ, Đức, Nhật, Úc",
+      "location": "Ho Chi Minh City, Vietnam",
+      "url": "https://www.linkedin.com/jobs/view/4495372038/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Trưởng phòng Quản trị và Phát triển hệ thống ERP",
+      "company": "BIM Group",
       "location": "Hanoi Capital Region",
-      "url": "https://www.linkedin.com/jobs/view/4495069951/",
+      "url": "https://www.linkedin.com/jobs/view/4496008464/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Junior Infra Engineer",
-      "company": "AvePoint",
-      "location": "Đà Nang, Da Nang City, Vietnam",
-      "url": "https://www.linkedin.com/jobs/view/4344431213/",
+      "title": "Legal Associate – Digital Ventures & Key Account",
+      "company": "B-Anywhere",
+      "location": "Ho Chi Minh City, Vietnam",
+      "url": "https://www.linkedin.com/jobs/view/4495352701/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Lead Associate, Investigations Diligence and Compliance - Core",
-      "company": "Kroll",
-      "location": "Hanoi, Hanoi, Vietnam",
-      "url": "https://www.linkedin.com/jobs/view/4477386286/",
-      "reason": "title not security/junior"
+      "title": "Threat Hunter/Purple Team Operator",
+      "company": "SIXGEN",
+      "location": "Thailand",
+      "url": "https://www.linkedin.com/jobs/view/4494246248/",
+      "reason": "experience: 3 yrs, Not Applicable"
     },
     {
-      "title": "National Contract Logistics IT Manager",
-      "company": "Kuehne+Nagel",
-      "location": "Ho Chi Minh City, Ho Chi Minh City, Vietnam",
-      "url": "https://www.linkedin.com/jobs/view/4452475940/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Junior IT Technician",
-      "company": "TELUS Digital",
-      "location": "Ward 1, Quang Tri, Vietnam",
-      "url": "https://www.linkedin.com/jobs/view/4416648845/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Sr. Network Engineer",
-      "company": "Analog Devices",
-      "location": "Chon Buri, Chon Buri, Thailand",
-      "url": "https://www.linkedin.com/jobs/view/4471190782/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Software Developer, DevOps (Bangkok-based, 10-month Contract)",
-      "company": "Agoda",
+      "title": "DevOps Engineer",
+      "company": "Flowen",
       "location": "Bangkok, Bangkok City, Thailand",
-      "url": "https://www.linkedin.com/jobs/view/4486958849/",
+      "url": "https://www.linkedin.com/jobs/view/4495352520/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Director of Information Technology",
-      "company": "Venine Cable",
-      "location": "Lat Bua Luang district, Phra Nakhon Si Ayutthaya, Thailand",
-      "url": "https://www.linkedin.com/jobs/view/4495089058/",
+      "title": "Product Owner (Risk Squad)",
+      "company": "KASIKORN LINE",
+      "location": "Bangkok City, Thailand",
+      "url": "https://www.linkedin.com/jobs/view/4495301262/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Data Architect & Engineer",
-      "company": "aCommerce",
-      "location": "Bangkok, Bangkok City, Thailand",
-      "url": "https://www.linkedin.com/jobs/view/4496000005/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "AI Policy Analyst",
-      "company": "TAIRC",
-      "location": "Mae Ai, Chiang Mai, Thailand",
-      "url": "https://www.linkedin.com/jobs/view/4494214657/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Investor Services Operations Head - Senior Vice President",
-      "company": "Citi",
-      "location": "Bangkok, Bangkok City, Thailand",
-      "url": "https://www.linkedin.com/jobs/view/4486906881/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Regulatory Reporting Senior Analyst - Assistant Vice President",
-      "company": "Citi",
-      "location": "Bangkok, Bangkok City, Thailand",
-      "url": "https://www.linkedin.com/jobs/view/4486907742/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Technical Program Manager",
-      "company": "Vidio",
-      "location": "Jakarta, Jakarta, Indonesia",
-      "url": "https://www.linkedin.com/jobs/view/4495326828/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "合规法务专员",
-      "company": "Wanfeng Auto Holding Group Co. Ltd",
-      "location": "Lembang, West Java, Indonesia",
-      "url": "https://www.linkedin.com/jobs/view/4495347165/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "FSRM (Financial Service Risk Management) Junior Consultant",
-      "company": "EY",
-      "location": "Jakarta, Jakarta, Indonesia",
-      "url": "https://www.linkedin.com/jobs/view/4469456294/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Internship PMO Support",
-      "company": "PT. Astra Graphia Information Technology (AGIT)",
-      "location": "Central Jakarta, Jakarta, Indonesia",
-      "url": "https://www.linkedin.com/jobs/view/4495884474/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Associate Quality Assurance",
-      "company": "NTT DATA, Inc.",
+      "title": "IT INFRASTRUCTURE & OPERATIONS STAFF",
+      "company": "NDN",
       "location": "Jakarta Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4494201974/",
+      "url": "https://www.linkedin.com/jobs/view/4495359533/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Software Architect Intern",
-      "company": "SMP (Technology)",
+      "title": "Senior AI Engineer",
+      "company": "Aureus Automation Pte Ltd",
       "location": "Tangerang, Banten, Indonesia",
-      "url": "https://www.linkedin.com/jobs/view/4495082318/",
+      "url": "https://www.linkedin.com/jobs/view/4495367239/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "IT Service Desk L0",
+      "company": "ITOMMEY Group",
+      "location": "Jakarta, Jakarta, Indonesia",
+      "url": "https://www.linkedin.com/jobs/view/4495362461/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Threat Hunter/Purple Team Operator",
+      "company": "SIXGEN",
+      "location": "Philippines",
+      "url": "https://www.linkedin.com/jobs/view/4494233754/",
+      "reason": "experience: 3 yrs, Not Applicable"
+    },
+    {
+      "title": "Senior Web Developer - Hybrid",
+      "company": "Lennor Group",
+      "location": "Taguig, National Capital Region, Philippines",
+      "url": "https://www.linkedin.com/jobs/view/4495348872/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Senior JavaScript Developer-Vue | Node",
+      "company": "Sharesource",
+      "location": "Manila, National Capital Region, Philippines",
+      "url": "https://www.linkedin.com/jobs/view/4494250058/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Backend Senior Manager",
+      "company": "Coins.ph",
+      "location": "Taguig, National Capital Region, Philippines",
+      "url": "https://www.linkedin.com/jobs/view/4495895952/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Legal Counsel (Corporate Housekeeping and Licensing)",
+      "company": "Coins.ph",
+      "location": "Taguig, National Capital Region, Philippines",
+      "url": "https://www.linkedin.com/jobs/view/4494470739/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Chief Product & Technology Officer",
+      "company": "harlan + holden",
+      "location": "Pasig, National Capital Region, Philippines",
+      "url": "https://www.linkedin.com/jobs/view/4485137211/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Data and Systems Lead",
+      "company": "URC",
+      "location": "Metro Manila",
+      "url": "https://www.linkedin.com/jobs/view/4496021022/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Senior Technical Director, Monitoring, Evaluation, and Performance Accountability",
+      "company": "URC",
+      "location": "Metro Manila",
+      "url": "https://www.linkedin.com/jobs/view/4496001898/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Data Engineer/Analyst",
+      "company": "URC",
+      "location": "Metro Manila",
+      "url": "https://www.linkedin.com/jobs/view/4496004830/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Manager to VP, Internal Audit (IT Audit)",
+      "company": "China Construction Bank (Asia)",
+      "location": "Hong Kong, Hong Kong SAR",
+      "url": "https://www.linkedin.com/jobs/view/4496008841/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Data & AI Governance AVP/ Senior Manager/Manager/ Assistant Manager (Bank); Cantonese Speaking needed!!!)",
+      "company": "JustOneGalaxy Recruitment",
+      "location": "Hong Kong SAR",
+      "url": "https://www.linkedin.com/jobs/view/4495368210/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Principal Product Manager - Compliance / AML / Risk Platform",
+      "company": "Coins.ph",
+      "location": "Hong Kong, Hong Kong SAR",
+      "url": "https://www.linkedin.com/jobs/view/4494469708/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Principal Product Manager - Compliance / AML / Risk Platform",
+      "company": "Coins.ph",
+      "location": "Hong Kong SAR",
+      "url": "https://www.linkedin.com/jobs/view/4495898859/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Internal Audit Professional (Business Audit)",
+      "company": "China Construction Bank (Asia)",
+      "location": "Hong Kong, Hong Kong SAR",
+      "url": "https://www.linkedin.com/jobs/view/4496006944/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Senior Corporate Safety and Quality Manager – Transport Services Safety (Ref: 260000W1)",
+      "company": "MTR Corporation Limited 香港鐵路有限公司",
+      "location": "Hong Kong SAR",
+      "url": "https://www.linkedin.com/jobs/view/4491605717/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Assistant Corporate Safety and Quality Manager – Development and Shared Services (Ref: 260000ZX)",
+      "company": "MTR Corporation Limited 香港鐵路有限公司",
+      "location": "Hong Kong SAR",
+      "url": "https://www.linkedin.com/jobs/view/4480037438/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Analyst Programmer - Financial IT",
+      "company": "Kuehne+Nagel",
+      "location": "Hong Kong, Hong Kong SAR",
+      "url": "https://www.linkedin.com/jobs/view/4496018282/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Corporate Security Guard (Ref: 2600001D)",
+      "company": "MTR Corporation Limited 香港鐵路有限公司",
+      "location": "Hong Kong SAR",
+      "url": "https://www.linkedin.com/jobs/view/4492294547/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Threat Hunter/Purple Team Operator",
+      "company": "SIXGEN",
+      "location": "Japan",
+      "url": "https://www.linkedin.com/jobs/view/4494246244/",
+      "reason": "experience: 3 yrs, Not Applicable"
+    },
+    {
+      "title": "Senior Cyber Threat Hunter",
+      "company": "Ideal Folks LLC",
+      "location": "Tokyo, Japan",
+      "url": "https://www.linkedin.com/jobs/view/4495368055/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "[Japan] Cybersecurity Incident Response Lead (CSIRT), Global Information Security",
+      "company": "Santen",
+      "location": "Japan",
+      "url": "https://www.linkedin.com/jobs/view/4495366088/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "[Japan] Cybersecurity Incident Response Lead (CSIRT), Global Information Security",
+      "company": "Valley Medical Center & Clinics",
+      "location": "Japan",
+      "url": "https://www.linkedin.com/jobs/view/4495899975/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Sr Sales Engineer",
+      "company": "Black Duck",
+      "location": "Tokyo, Tokyo, Japan",
+      "url": "https://www.linkedin.com/jobs/view/4494757089/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "【★Staff AI Engineer】Production-Grade AI Agents & Evaluation / English Environment / Listed FinTech / Hybrid / JLPT N2 Level～",
+      "company": "G Talent",
+      "location": "Fukuoka, Japan",
+      "url": "https://www.linkedin.com/jobs/view/4495347619/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "【★SRE】Build a New Digital Bank Platform from Scratch / Listed FinTech / Hybrid / JLPT N2 Level～",
+      "company": "G Talent",
+      "location": "Fukuoka, Japan",
+      "url": "https://www.linkedin.com/jobs/view/4495355399/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "[Web Engineer] Young and female engineers are active! / Successful case of 1 million yen increase in previous salary ◆",
+      "company": "RISE for Career - Jobs in Japan for Foreign Engineers",
+      "location": "Tokyo, Tokyo, Japan",
+      "url": "https://www.linkedin.com/jobs/view/4494223907/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "人権デューデリジェンス・Human Rights Due Diligence (HRDD) Graduate Consultant",
+      "company": "ERM",
+      "location": "Greater Osaka Area",
+      "url": "https://www.linkedin.com/jobs/view/4494245028/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Cloud/IoT Application SE",
+      "company": "RISE for Career - Jobs in Japan for Foreign Engineers",
+      "location": "Ehime, Japan",
+      "url": "https://www.linkedin.com/jobs/view/4494237390/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Threat Hunter/Purple Team Operator",
+      "company": "SIXGEN",
+      "location": "Germany",
+      "url": "https://www.linkedin.com/jobs/view/4494244288/",
+      "reason": "experience: 3 yrs, Not Applicable"
+    },
+    {
+      "title": "Mitarbeiter IT-Security (m/w/d)",
+      "company": "Naabtaler Milchwerke GmbH & Co. KG Privatmolkerei Bechtel",
+      "location": "Schwarzenfeld, Bavaria, Germany",
+      "url": "https://www.linkedin.com/jobs/view/4496002586/",
+      "reason": "experience: None yrs, Not Applicable"
+    },
+    {
+      "title": "Cyber Security Engineer",
+      "company": "Talemexa",
+      "location": "Germany",
+      "url": "https://www.linkedin.com/jobs/view/4495363386/",
+      "reason": "experience: None yrs, Associate"
+    },
+    {
+      "title": "System Security Engineer (m/w/d)",
+      "company": "SCOPE Engineering GmbH",
+      "location": "Bremen, Bremen, Germany",
+      "url": "https://www.linkedin.com/jobs/view/4495361396/",
+      "reason": "experience: None yrs, Not Applicable"
+    },
+    {
+      "title": "Leiterin (all genders) IT-Security-Team (Security Operations & Governance)",
+      "company": "Stadtreinigung Hamburg",
+      "location": "Hamburg, Hamburg, Germany",
+      "url": "https://www.linkedin.com/jobs/view/4494240266/",
+      "reason": "experience: None yrs, Not Applicable"
+    },
+    {
+      "title": "Head of Cyber Security *",
+      "company": "Weidmüller Germany",
+      "location": "Detmold, North Rhine-Westphalia, Germany",
+      "url": "https://www.linkedin.com/jobs/view/4495354758/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Technical Consultant - Endpoint (m/w/d)",
+      "company": "enturix GmbH",
+      "location": "Traunreut, Bavaria, Germany",
+      "url": "https://www.linkedin.com/jobs/view/4496025249/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "IT-Systemadministrator*in für Forschungsdaten-Infrastruktur und Virtualisierung",
+      "company": "Universitätsmedizin Greifswald",
+      "location": "Greifswald, Mecklenburg-West Pomerania, Germany",
+      "url": "https://www.linkedin.com/jobs/view/4495078281/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "IT System Spezialist (m/w/d)",
+      "company": "SCOPE Engineering GmbH",
+      "location": "Kiel, Schleswig-Holstein, Germany",
+      "url": "https://www.linkedin.com/jobs/view/4495369105/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Mitarbeiter IT-Infrastruktur (m/w/d)",
+      "company": "Naabtaler Milchwerke GmbH & Co. KG Privatmolkerei Bechtel",
+      "location": "Schwarzenfeld, Bavaria, Germany",
+      "url": "https://www.linkedin.com/jobs/view/4496006545/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "DevOps Enginer (m/w/d)- Kubernetes & AI Infrastructure",
+      "company": "ADITO Software GmbH",
+      "location": "Landshut, Bavaria, Germany",
+      "url": "https://www.linkedin.com/jobs/view/4494232239/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Full-Stack Engineer (Munich)",
+      "company": "Dex",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://www.linkedin.com/jobs/view/4496017226/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Artificial Intelligence Specialist",
+      "company": "fairforce.one",
+      "location": "Leipzig, Saxony, Germany",
+      "url": "https://www.linkedin.com/jobs/view/4494237442/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Gruppenleitung / Technical Lead (m/w/d) Anwendungsentwicklung Komposit",
+      "company": "VPV Versicherungen",
+      "location": "Stuttgart, Baden-Württemberg, Germany",
+      "url": "https://www.linkedin.com/jobs/view/4495894873/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Product Engineer",
+      "company": "Blexity",
+      "location": "Berlin, Berlin, Germany",
+      "url": "https://www.linkedin.com/jobs/view/4495343882/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "IT-Systemadministrator (m/w/d)",
+      "company": "mamgo | Talente 🔗 Jobs",
+      "location": "Dortmund, North Rhine-Westphalia, Germany",
+      "url": "https://www.linkedin.com/jobs/view/4496021280/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Bereichsleitung Prozess- und Berechtigungsdienste (m/w/d)",
+      "company": "Finanz Informatik",
+      "location": "Frankfurt am Main, Hesse, Germany",
+      "url": "https://www.linkedin.com/jobs/view/4496025063/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "General Counsel",
+      "company": "ETERNO",
+      "location": "Berlin, Berlin, Germany",
+      "url": "https://www.linkedin.com/jobs/view/4495350620/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Manager Internal Audit / Revision International (m/w/d)",
+      "company": "Schwarz Corporate Solutions",
+      "location": "Neckarsulm, Baden-Württemberg, Germany",
+      "url": "https://www.linkedin.com/jobs/view/4496011591/",
       "reason": "title not security/junior"
     },
     {
       "title": "Java Developer",
-      "company": "ONE INDONESIA",
-      "location": "Tebet, Jakarta, Indonesia",
-      "url": "https://www.linkedin.com/jobs/view/4491491821/",
+      "company": "Talemexa",
+      "location": "Germany",
+      "url": "https://www.linkedin.com/jobs/view/4495364239/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Security (Freelance) Lamar Sekarang",
-      "company": "ZERONE JAPAN",
-      "location": "Central Java, Indonesia",
-      "url": "https://www.linkedin.com/jobs/view/4494224326/",
-      "reason": "experience: None yrs, Not Applicable"
-    },
-    {
-      "title": "Senior Staff SOC Analyst (Hybrid, Remote-first)",
-      "company": "Umpisa Inc",
-      "location": "Manila, National Capital Region, Philippines",
-      "url": "https://www.linkedin.com/jobs/view/4494204992/",
+      "title": "IT-Systembetreuer (m/w/d)",
+      "company": "Zentraler IT-Betrieb Niedersächsische Justiz",
+      "location": "Lower Saxony, Germany",
+      "url": "https://www.linkedin.com/jobs/view/4495895853/",
       "reason": "title not security/junior"
     },
     {
-      "title": "SGV - Vulnerability Management - Senior Associate",
-      "company": "SGV & Co.",
-      "location": "Makati, National Capital Region, Philippines",
-      "url": "https://www.linkedin.com/jobs/view/4486232257/",
+      "title": "Werkstudent Collaboration Alarmierungsservice (m/w/d)",
+      "company": "BWI GmbH",
+      "location": "Aachen, North Rhine-Westphalia, Germany",
+      "url": "https://www.linkedin.com/jobs/view/4496018194/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Technology- Cyber Security, Full Time Analyst, Philippines 2027",
-      "company": "Citi",
-      "location": "Taguig, National Capital Region, Philippines",
-      "url": "https://www.linkedin.com/jobs/view/4486913597/",
-      "reason": "applicants: 169 applicants"
-    },
-    {
-      "title": "MSP/MSSP Operations Manager | AI-NOC & AI-SOC | Philippines-Based",
-      "company": "Soveraign Solutions",
-      "location": "Philippines",
-      "url": "https://www.linkedin.com/jobs/view/4495885832/",
+      "title": "Werkstudent Collaboration Alarmierungsservice (m/w/d)",
+      "company": "BWI GmbH",
+      "location": "Bonn, North Rhine-Westphalia, Germany",
+      "url": "https://www.linkedin.com/jobs/view/4496006878/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Digital Identity & Privileged Access Management Senior Endpoint Administrator",
-      "company": "EY",
-      "location": "Taguig, National Capital Region, Philippines",
-      "url": "https://www.linkedin.com/jobs/view/4471430482/",
-      "reason": "title not security/junior"
+      "title": "Threat Hunter/Purple Team Operator",
+      "company": "SIXGEN",
+      "location": "Netherlands",
+      "url": "https://www.linkedin.com/jobs/view/4494234769/",
+      "reason": "experience: 3 yrs, Not Applicable"
     },
     {
-      "title": "Engineer IV, IT Infosec",
-      "company": "Ultra Clean Technology",
-      "location": "Lapu-Lapu, Central Visayas, Philippines",
-      "url": "https://www.linkedin.com/jobs/view/4422241076/",
-      "reason": "applicants: unknown"
-    },
-    {
-      "title": "SGV - Strategy, Risk, and Compliance - Senior Associate",
-      "company": "SGV & Co.",
-      "location": "Makati, National Capital Region, Philippines",
-      "url": "https://www.linkedin.com/jobs/view/4486217905/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Technology- Cyber Security, Summer Analyst (Internship), Philippines 2027",
-      "company": "Citi",
-      "location": "Taguig, National Capital Region, Philippines",
-      "url": "https://www.linkedin.com/jobs/view/4486907761/",
-      "reason": "applicants: Over 200 applicants"
-    },
-    {
-      "title": "Senior Cloud, DevOps, Site Reliability Engineer (For Pooling)",
-      "company": "Broadridge",
-      "location": "Metro Manila",
-      "url": "https://www.linkedin.com/jobs/view/4417030485/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Senior Third Party Vendor Analyst",
-      "company": "GR8 Global Philippines",
-      "location": "Philippines",
-      "url": "https://www.linkedin.com/jobs/view/4495341525/",
-      "reason": "title not security/junior"
-    },
-    {
-      "title": "Technology - Infrastructure, Summer Analyst (Internship), Philippines, 2027",
-      "company": "Citi",
-      "location": "Taguig, National Capital Region, Philippines",
-      "url": "https://www.linkedin.com/jobs/view/4486904804/",
+      "title": "Platform & Software Engineer bij Hiber",
+      "company": "&Work",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "url": "https://www.linkedin.com/jobs/view/4496017468/",
       "reason": "title not security/junior"
     },
     {
       "title": "Senior Software Engineer",
-      "company": "Glass Lewis",
-      "location": "Metro Manila",
-      "url": "https://www.linkedin.com/jobs/view/4494220275/",
+      "company": "Nadal Talents UG",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "url": "https://www.linkedin.com/jobs/view/4494227917/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Software Development Engineer II",
-      "company": "OneByZero",
-      "location": "Manila, National Capital Region, Philippines",
-      "url": "https://www.linkedin.com/jobs/view/4494205957/",
+      "title": "Data Management Control & Compliance Lead",
+      "company": "NatWest Group",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "url": "https://www.linkedin.com/jobs/view/4496022090/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Senior JavaScript Developer-Vue",
-      "company": "Sharesource",
-      "location": "Davao, Davao Region, Philippines",
-      "url": "https://www.linkedin.com/jobs/view/4494217515/",
+      "title": "Workplace AI Automation Consultant",
+      "company": "Sogeti",
+      "location": "Groningen, Groningen, Netherlands",
+      "url": "https://www.linkedin.com/jobs/view/4488207790/",
       "reason": "title not security/junior"
     },
     {
-      "title": "Technology-Infrastructure, Full Time Analyst, Philippines 2027",
-      "company": "Citi",
-      "location": "Taguig, National Capital Region, Philippines",
-      "url": "https://www.linkedin.com/jobs/view/4486925353/",
+      "title": "IPMA Senior Manager",
+      "company": "European Space Agency - ESA",
+      "location": "Noordwijk-Binnen, South Holland, Netherlands",
+      "url": "https://www.linkedin.com/jobs/view/4488392177/",
       "reason": "title not security/junior"
+    },
+    {
+      "title": "BEVEILIGER AMSTERDAM CS",
+      "company": "G4S",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "url": "https://www.linkedin.com/jobs/view/4494231589/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Meewerkstage Geopolitics & Intelligence",
+      "company": "KLM Royal Dutch Airlines",
+      "location": "Oost-Vlieland, Friesland, Netherlands",
+      "url": "https://www.linkedin.com/jobs/view/4496008895/",
+      "reason": "title not security/junior"
+    },
+    {
+      "title": "Threat Hunter/Purple Team Operator",
+      "company": "SIXGEN",
+      "location": "Ireland",
+      "url": "https://www.linkedin.com/jobs/view/4494234765/",
+      "reason": "experience: 3 yrs, Not Applicable"
     }
   ]
 }
